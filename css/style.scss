@@ -57,7 +57,6 @@ a{text-decoration:none;color:#444;
 
 //标题部分
 h1{text-align: center;font-size: 25px;line-height: 40px;color: $color;}//首页栏目标题
-h3{font-size: 16px;line-height: 35px;color: $color;}//首页子栏目标题
 h4{font-size: 16px;line-height: 20px;color: #fff;}//底部导航标题
 h5{font-size: 11px;line-height: 15px;color: $color;color: #fff;@include en;}
 
@@ -122,6 +121,41 @@ h5{font-size: 11px;line-height: 15px;color: $color;color: #fff;@include en;}
     }
     
 }
+//xinwen
+.ne{margin-bottom: 20px;
+    
+   h2{color: #e61a19;padding-left: 74px;line-height: 70px;border: 1px solid #d6d6d6;position: relative;overflow: hidden;font-size: 16px;
+        a{float: right;color: #E61A19;font-size: 12px;padding-right: 20px;}
+        i{width: 26px;position: absolute;left: 30px;top: 23px;}
+    }
+    
+}
+.nel{width: 479px;float: left;
+    h3{font-size: 16px;padding-top: 15px;}
+    p{font-size: 14px;}
+}
+.ner{width: 650px;float: right;
+    ul{
+        li{overflow: hidden;margin-bottom: 50px;
+            i{width: 70px;height: 60px;border: 1px solid #d6d6d6;text-align: center;line-height: 60px;font-size: 30px;font-style: normal;float: left;@include hover}
+            div{width: 550px;float: right;
+                h3{font-size: 16px;@include hover;
+                    span{float: right;font-size: 13px;color: $color;}
+                }
+                p{font-size: 13px;line-height: 20px;}
+            }
+            &:nth-last-child(1){margin-bottom: 0;}
+            &:hover{
+                i{color: #fff;background: $color;}
+                div{
+                    h3{color: $color;
+                        a{color: $color;}
+                    }
+                }
+            }
+        }
+    }
+}
 .ryx{overflow: hidden;padding: 15px;margin-right:15px;width: 258px;float: left;background: #fff;
         img{background: #fff;width: 100%;}
         &:nth-last-child(1){margin-right: 0;}
@@ -150,6 +184,22 @@ h5{font-size: 11px;line-height: 15px;color: $color;color: #fff;@include en;}
                 a{color: #fff;}
             }     
         }
+    }
+}
+.ab{margin-bottom: 30px;
+    
+    h2{line-height: 40px;border-bottom: 1px solid #d6d6d6;position: relative;overflow: hidden;font-size: 16px;
+        a{float: right;font-size: 12px;padding-right: 30px;}
+        i{width:16px;position: absolute;right: 0;top: 11px;}
+    }
+    
+}
+.abl{float: left;width: 423px;}
+.abr{float: right;width: 750px;
+    h2{font-size: 18px;}
+    p{font-size: 14px;text-indent: 28px;line-height: 26px;padding-top: 10px;}
+    div{text-align: center;padding-top: 40px;
+        a{padding: 5px 20px;margin: 0 20px;background: $color;color: #fff;}
     }
 }
 
@@ -195,12 +245,13 @@ h5{font-size: 11px;line-height: 15px;color: $color;color: #fff;@include en;}
 }
 
 //友情链接
-.link{width:$width - 2px;border: 1px solid #d6d6d6;margin:10px auto;overflow: hidden;padding: 10px 0;
+.link-w{min-width: $width;border-top:1px solid #d6d6d6;}
+.link{margin:10px auto;overflow: hidden;padding: 10px 0;width: 1200px;
     a{width: 120px;display: block;float: left;padding: 5px 0 5px 10px;}
 }
-.link:before{text-align: center;width:$left;height: 100px;content:"友情链接";float: left;line-height: 100px;font-size: 16px;border-right: 1px solid #d6d6d6;}
+.link:before{text-align: center;width:$left;height: 30px;content:"友情链接";float: left;line-height: 30px;font-size: 16px;border-right: 1px solid #d6d6d6;}
 //底部样式
-.bottom{width: 100%;padding: 20px 0;overflow: hidden;background: #272727;min-width: $width;}
+.bottom{width: 100%;padding: 20px 0;overflow: hidden;min-width: $width;}
 .bot1{padding:0 30px;float: left;
     ul{padding-top: 10px;
         li{line-height: 28px;
@@ -211,14 +262,12 @@ h5{font-size: 11px;line-height: 15px;color: $color;color: #fff;@include en;}
     }
 }
 .ewm{width: 130px;float: right;padding: 0 10px;
-    p{text-align: center;color: #bbb;}
+    img{width: 100%;}
+    p{text-align: center;}
 }
-.bottom1{width: 100%;padding: 10px 0;overflow: hidden;background: #efeeed;min-width: $width;z-index: 9;position: relative;
-    .bot-p1{width: 500px;float: left;}
-    .bot-p2{float: right;
-        a{padding-right:10px;}
-    }
-}
+
+    .bot-p1{text-align: center;}
+
 .cnzz{text-align: center;line-height: 0;line-height: 20px;float: right;position: absolute;bottom: 0;right: 0;
     a{height: 20px;display: inline-block;vertical-align:text-top;
         i{float: left;width: 20px;}
