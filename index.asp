@@ -39,7 +39,7 @@
 	</div>
 	<div class="wnr">
 		<div class="wl">
-			<img src="images/w1_16.jpg" alt="" />
+			<img src="images/w2_15.jpg" alt="" />
 			<div>
 				<a href="">
 					<i><img src="images/jia.png" alt="" /></i>
@@ -57,7 +57,7 @@
 			</div>
 		</div>
 		<div class="wl">
-			<img src="images/w1_16.jpg" alt="" />
+			<img src="images/w3_16.jpg" alt="" />
 			<div>
 				<a href="">
 					<i><img src="images/jia.png" alt="" /></i>
@@ -66,7 +66,7 @@
 			</div>
 		</div>
 		<div class="wl">
-			<img src="images/w1_16.jpg" alt="" />
+			<img src="images/w4_16.jpg" alt="" />
 			<div>
 				<a href="">
 					<i><img src="images/jia.png" alt="" /></i>
@@ -75,7 +75,7 @@
 			</div>
 		</div>
 		<div class="wl">
-			<img src="images/w1_16.jpg" alt="" />
+			<img src="images/w5_15.jpg" alt="" />
 			<div>
 				<a href="">
 					<i><img src="images/jia.png" alt="" /></i>
@@ -84,11 +84,20 @@
 			</div>
 		</div>
 		<div class="wl">
-			<img src="images/w1_16.jpg" alt="" />
+			<img src="images/w6_15.jpg" alt="" />
 			<div>
 				<a href="">
 					<i><img src="images/jia.png" alt="" /></i>
-					<h1>西装定制</h1>
+					<h1>广告衫短袖T恤</h1>
+				</a>				
+			</div>
+		</div>
+		<div class="wl">
+			<img src="images/w7_15.jpg" alt="" />
+			<div>
+				<a href="">
+					<i><img src="images/jia.png" alt="" /></i>
+					<h1>酒店服装</h1>
 				</a>				
 			</div>
 		</div>
