@@ -4,7 +4,7 @@ Author:  前小端
 Author url: http://www.qianxiaoduan.com/
 */
 @import "Globalstyle.scss";//插入外部文件：全局样式
-$color:#0078d7;//定义全局主色
+$color:#e61a19;//定义全局主色
 $bj:#eee;//定义页面灰色背景
 $width:1200px;//定义网站宽度
 $banner:552px;//banner高度
@@ -44,7 +44,7 @@ a{text-decoration:none;color:#444;
     &:hover{color: $color;}
 }
 .w-100{width: 100%;overflow: hidden;min-width: $width;}
-.w-100b{width: 100%;overflow: hidden;min-width: $width;background: $bj;}
+.w-100b{width: 100%;overflow: hidden;min-width: $width;background: #f4f2f2;}
 .n-100{width: 100%;overflow: hidden;letter-spacing:-3px; font-size:0;}
 .w-1000{width: $width;margin: 0 auto;overflow: hidden;position: relative;}//内容宽度
 .logo{float: left;padding: 10px 0;width: 611px;}
@@ -57,7 +57,6 @@ a{text-decoration:none;color:#444;
 
 //标题部分
 h1{text-align: center;font-size: 25px;line-height: 40px;color: $color;}//首页栏目标题
-h2{text-align: center;font-size: 16px;line-height: 25px;}//首页栏目下方栏目介绍标题
 h3{font-size: 16px;line-height: 35px;color: $color;}//首页子栏目标题
 h4{font-size: 16px;line-height: 20px;color: #fff;}//底部导航标题
 h5{font-size: 11px;line-height: 15px;color: $color;color: #fff;@include en;}
@@ -110,9 +109,23 @@ h5{font-size: 11px;line-height: 15px;color: $color;color: #fff;@include en;}
     }
     img{margin: 20px auto;}
 }
+
 //合作
 .hzl{width: 52px;height: 79px;float: left;}
 .hzr{height: 79px;width: 1145px;float: right;}
+//荣誉资质
+.ry{margin-bottom: 30px;
+    
+    h2{color: #e61a19;padding-left: 74px;line-height: 70px;border: 1px solid #d6d6d6;position: relative;overflow: hidden;font-size: 16px;
+        a{float: right;color: #E61A19;font-size: 12px;padding-right: 20px;}
+        i{width: 26px;position: absolute;left: 30px;top: 23px;}
+    }
+    
+}
+.ryx{overflow: hidden;padding: 15px;margin-right:15px;width: 258px;float: left;background: #fff;
+        img{background: #fff;width: 100%;}
+        &:nth-last-child(1){margin-right: 0;}
+    }
 //tab部分
 .tab-left{width: $left;float: left;padding-right: 15px;
     ul li{width: 100%;background: $tab-left-bj;border-bottom: 1px solid #fff;position: relative;
@@ -141,11 +154,11 @@ h5{font-size: 11px;line-height: 15px;color: $color;color: #fff;@include en;}
 }
 
 //点击滚动
-.gd{width:100%;height:auto;overflow:hidden;position:relative;}
+.gd{width:1100px;height:auto;overflow:hidden;position:relative;margin:0 50px;}
 .gd_prev{height: 70px; font-size: 40px;line-height: 70px;position: absolute;top: 50%;left: 0;z-index: 9;font-family: "宋体";background: $color;color: #fff;cursor: pointer;margin-top: -35px;}
 .gd_next{height: 70px; font-size: 40px;line-height: 70px;position: absolute;top: 50%;right: 0;z-index: 9;font-family: "宋体";background: $color;color: #fff;cursor: pointer;margin-top: -35px;}
 .gd_main{width:10000px;overflow:hidden;position:relative;z-index:1;
-    .gd_main_div{width:$width;float:left;
+    .gd_main_div{width:1100px;float:left;
         div{width:calc((100% / 4) - 20px);padding:0 10px;display:block;float:left;
             a{display:block;}
         }

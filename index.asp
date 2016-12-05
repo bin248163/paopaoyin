@@ -140,117 +140,85 @@
 	<img src="images/pp1_29.jpg" alt="" style="margin:20px auto;" />
 	<img src="images/pp2_32.jpg" alt="" style="margin:20px auto;" />
 </div>
-<div class="w-1000">
-	<div class="tab-left" id="tablist1">
-		<ul>
-			<li class="this">
-				<a href="">456</a><i></i>
-			</li>
-			<li>
-				<a href="">456</a><i></i>
-			</li>
-			<li>
-				<a href="">456</a><i></i>
-			</li>
-			<li>
-				<a href="">456</a><i></i>
-			</li>
-			<li>
-				<a href="">456</a><i></i>
-			</li>
-		</ul>
-	</div>
-	<div class="tab-right">
-		<div class="tab-rightn" id="tab1">
-			<div class="tab-con">
-				<!--1-->
-				<div class="span-50"><img src="images/ico.png" alt="" />
-					<p>123</p>
-				</div>
-				<div class="span-50"><img src="http://yzb123.top/image/banner1.jpg" alt="" /></div>
-				<div class="span-50"><img src="images/banner1.jpg" alt="" /></div>
-				<div class="span-50"><img src="images/ico.png" alt="" /></div>
-			</div>
-			<div class="tab-con">
-				<!--2-->
-				<div class="n-100">
-					<div class="span-50"><img src="images/banner3.jpg" alt="" /></div>
-					<div class="span-50"><img src="images/banner3.jpg" alt="" /></div>
-				</div>
-			</div>
-			<div class="tab-con">
-				<!--3-->
-				<div class="paging">
-					<a href="" class="paga">首页</a>
-					<a href="" class="paga">下一页</a>
-					<a href="" class="active">1</a>
-					<a href="">2</a>
-					<a href="">3</a>
-					<a href="" class="paga">下一页</a>
-					<a href="" class="paga">尾页</a>
-				</div>
-			</div>
-			<div class="tab-con">
-				<!--4-->
-				<div class="sj"><i class="i1"></i><i class="i2"></i></div>
-			</div>
-			<div class="tab-con">
-				<!--4-->
-
-				<p id="b5" class="sp1">播放</p>
-				<p id="b6" class="sp1">暂停</p>
-				<p id="b7" class="sp1">停止</p>
-
-			</div>
+<div class="w-100b">
+	<div class="w-1000 pc-20">
+		<div class="ry">
+			<h2>荣誉资质
+				<i><img src="images/rys_35.jpg" alt="" /></i>
+				<a href="">MORE+</a>
+			</h2>
+		</div>
+		<div class="ryx">
+			<img src="images/ry_35.jpg" alt="" />
+		</div>
+		<div class="ryx">
+			<img src="images/ry_35.jpg" alt="" />
+		</div>
+		<div class="ryx">
+			<img src="images/ry_35.jpg" alt="" />
+		</div>
+		<div class="ryx">
+			<img src="images/ry_35.jpg" alt="" />
 		</div>
 	</div>
 </div>
+<div class="w-100">
+	<img src="images/50_42.jpg" alt="" />
+</div>
 <div class="w-1000">
-	<div class="gd">
-
+	<img src="images/lc_53.jpg" alt="" style="margin:60px auto; 0"/>
+	<img src="images/lc1_57.jpg" alt="" style="margin: 40px auto 20px;"/>
+</div>
+<div class="w-100b">
+	<div class="w-1000 pc-20">
 		<span class="gd_prev"><</span>
 		<span class="gd_next">></span>
+	<div class="gd">
+
+		
 		<div class="gd_main">
 			<div class="gd_main_div">
 				<div class="gd_main_span1">
-					<a href="#" class="gd_main_a1"><img src="images/lizi_img007.jpg" /></a>
-					<a href="#" class="gd_main_a2">+详情点击</a>
+					<a href="#" class="gd_main_a1"><img src="images/sc1_61.jpg" /></a>
+					<a href="#" class="gd_main_a2">生产车间</a>
 				</div>
 				<div class="gd_main_span1">
-					<a href="#" class="gd_main_a1"><img src="images/lizi_img007.jpg" /></a>
-					<a href="#" class="gd_main_a2">+详情点击</a>
+					<a href="#" class="gd_main_a1"><img src="images/sc2_61.jpg" /></a>
+					<a href="#" class="gd_main_a2">生产设备</a>
 				</div>
 				<div class="gd_main_span1">
-					<a href="#" class="gd_main_a1"><img src="images/lizi_img007.jpg" /></a>
-					<a href="#" class="gd_main_a2">+详情点击</a>
+					<a href="#" class="gd_main_a1"><img src="images/sc3_61.jpg" /></a>
+					<a href="#" class="gd_main_a2">生产线</a>
 				</div>
 				<div class="gd_main_span1">
-					<a href="#" class="gd_main_a1"><img src="images/lizi_img007.jpg" /></a>
-					<a href="#" class="gd_main_a2">+详情点击</a>
+					<a href="#" class="gd_main_a1"><img src="images/sc4_61.jpg" /></a>
+					<a href="#" class="gd_main_a2">打样制板</a>
 				</div>
 			</div>
 			<div class="gd_main_div">
 				<div class="gd_main_span1">
-					<a href="#" class="gd_main_a1"><img src="images/lizi_img007.jpg" /></a>
-					<a href="#" class="gd_main_a2">+详情点击</a>
+					<a href="#" class="gd_main_a1"><img src="images/sc1_61.jpg" /></a>
+					<a href="#" class="gd_main_a2">生产车间</a>
 				</div>
 				<div class="gd_main_span1">
-					<a href="#" class="gd_main_a1"><img src="images/lizi_img007.jpg" /></a>
-					<a href="#" class="gd_main_a2">+详情点击</a>
+					<a href="#" class="gd_main_a1"><img src="images/sc2_61.jpg" /></a>
+					<a href="#" class="gd_main_a2">生产设备</a>
 				</div>
 				<div class="gd_main_span1">
-					<a href="#" class="gd_main_a1"><img src="images/lizi_img007.jpg" /></a>
-					<a href="#" class="gd_main_a2">+详情点击</a>
+					<a href="#" class="gd_main_a1"><img src="images/sc3_61.jpg" /></a>
+					<a href="#" class="gd_main_a2">生产线</a>
 				</div>
 				<div class="gd_main_span1">
-					<a href="#" class="gd_main_a1"><img src="images/lizi_img007.jpg" /></a>
-					<a href="#" class="gd_main_a2">+详情点击</a>
+					<a href="#" class="gd_main_a1"><img src="images/sc4_61.jpg" /></a>
+					<a href="#" class="gd_main_a2">打样制板</a>
 				</div>
 			</div>
 
 		</div>
 	</div>
 </div>
+</div>
+
 <div class="w-1000">
 	<h1 class="pt-15">大标题</h1>
 	<h2 class="pb-15">小标题</h2>
