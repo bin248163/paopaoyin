@@ -85,7 +85,22 @@ h5{font-size: 11px;line-height: 15px;color: $color;color: #fff;@include en;}
         li.this{a{background: #666;background: rgba(0,0,0,.3);}}
     } 
 }
-
+//
+.wn{width: 205px;height: 270px;overflow: hidden;float: left;}
+.wnr{float: left;width: 995px;
+    .wl{float: left;width: ($width / 7) - 20px;margin: 0 10px;overflow: hidden;position: relative;
+        img{width: 100%;}
+        div{background: rgba(0,0,0,.65);text-align: center;position: absolute;left: 0;bottom: 0;width: 100%;@include hover;height: 30px;
+            h1{font-size:18px;color: #fff;line-height: 30px;}
+            i{width: 24px;margin: 0 auto;overflow: hidden;height: 0;@include hover;}
+        }
+        &:hover{
+            div{height: 100%;
+                i{height: 24px;margin: 100px auto 10px;}
+            }
+        }
+    }
+}
 //tab部分
 .tab-left{width: $left;float: left;padding-right: 15px;
     ul li{width: 100%;background: $tab-left-bj;border-bottom: 1px solid #fff;position: relative;

@@ -34,6 +34,67 @@
 	</div>
 </div>
 <div class="w-1000">
+	<div class="wn">
+		<img src="images/wn_13.jpg" alt="" />
+	</div>
+	<div class="wnr">
+		<div class="wl">
+			<img src="images/w1_16.jpg" alt="" />
+			<div>
+				<a href="">
+					<i><img src="images/jia.png" alt="" /></i>
+					<h1>西装定制</h1>
+				</a>				
+			</div>
+		</div>
+		<div class="wl">
+			<img src="images/w1_16.jpg" alt="" />
+			<div>
+				<a href="">
+					<i><img src="images/jia.png" alt="" /></i>
+					<h1>衬衣定制</h1>
+				</a>				
+			</div>
+		</div>
+		<div class="wl">
+			<img src="images/w1_16.jpg" alt="" />
+			<div>
+				<a href="">
+					<i><img src="images/jia.png" alt="" /></i>
+					<h1>冲锋衣定制</h1>
+				</a>				
+			</div>
+		</div>
+		<div class="wl">
+			<img src="images/w1_16.jpg" alt="" />
+			<div>
+				<a href="">
+					<i><img src="images/jia.png" alt="" /></i>
+					<h1>工作服定制</h1>
+				</a>				
+			</div>
+		</div>
+		<div class="wl">
+			<img src="images/w1_16.jpg" alt="" />
+			<div>
+				<a href="">
+					<i><img src="images/jia.png" alt="" /></i>
+					<h1>校服定制</h1>
+				</a>				
+			</div>
+		</div>
+		<div class="wl">
+			<img src="images/w1_16.jpg" alt="" />
+			<div>
+				<a href="">
+					<i><img src="images/jia.png" alt="" /></i>
+					<h1>西装定制</h1>
+				</a>				
+			</div>
+		</div>
+	</div>
+</div>
+<div class="w-1000">
 	<div class="tab-left" id="tablist1">
 		<ul>
 			<li class="this">
