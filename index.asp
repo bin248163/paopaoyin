@@ -164,7 +164,7 @@
 	</div>
 </div>
 <div class="w-100">
-	<img src="images/50_42.jpg" alt="" />
+	<img src="images/50_42.jpg" alt="" style="width: 100%;"/>
 </div>
 <div class="w-1000">
 	<img src="images/lc_53.jpg" alt="" style="margin:60px auto; 0" />

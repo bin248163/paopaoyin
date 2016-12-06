@@ -37,9 +37,9 @@
 						<a href="index.asp" class="this">首页</a>
 					</li>
 					<li><a href="#">西装</a></li>
-					<li><a href="#">衬衣</a></li>
+					<li><a href="chenyi.asp">衬衣</a></li>
 					<li><a href="#">冲锋衣</a></li>
-					<li><a href="#">工作服</a></li>
+					<li><a href="gzf.asp">工作服</a></li>
 					<li><a href="#">校服</a></li>
 					<li><a href="#">特需定制</a></li>
 					<li><a href="#">酒店服装</a></li>
