@@ -2,46 +2,40 @@
 <div class="n-banner" style="background-image: url(images/n2_02.jpg);"></div>
 <div class="w-1000">
 	<h1 class="wz">
-		所在位置：<a href="">首页</a> > <a href="">衬衣</a>
+		所在位置：<a href="">首页</a> > <a href="">工作服</a>
 	</h1>
 </div>
 <div class="w-1000">
-	<img src="images/cy1_05.jpg" alt="" style="margin: 20px auto;" />
+	<img src="images/gzf1_05.jpg" alt="" style="margin: 20px auto;" />
 </div>
-<div class="w-1000">
-	<h1 class="title1">
-		企业公司团体工作装衬衫定制
-	</h1>
-	<div class="w-1000">
-		<div class="cm">
-			<img src="images/cs1_09.jpg" alt="" />
-			<div>
-				<span>60%棉含量纯色</span>
-				<a href="">查看更多</a>
-			</div>
-		</div>
-		<div class="cm">
-			<img src="images/cs2_09.jpg" alt="" />
-			<div>
-				<span>60%棉含量斜纹</span>
-				<a href="">查看更多</a>
-			</div>
-		</div>
-		<div class="cm">
-			<img src="images/cs3_09.jpg" alt="" />
-			<div>
-				<span>100%棉含量牛津</span>
-				<a href="">查看更多</a>
-			</div>
-		</div>
-		<div class="cm">
-			<img src="images/cs4_09.jpg" alt="" />
-			<div>
-				<span>100%棉含量纯色</span>
-				<a href="">查看更多</a>
+<div class="w-1000 pt-10">
+	<div class="hzl"><img src="images/hz_19.jpg" alt="" /></div>
+	<div class="hzr">
+		<div id="demo" class="demo">
+			<div id="indemo" class="indemo">
+				<div id="demo1" class="demo1">
+					<a href="case.asp"><img src="images/hz1_21.jpg" border="0" /></a>
+					<a href="case.asp"><img src="images/hz2_21.jpg" border="0" /></a>
+					<a href="case.asp"><img src="images/hz3_21.jpg" border="0" /></a>
+					<a href="case.asp"><img src="images/hz4_21.jpg" border="0" /></a>
+					<a href="case.asp"><img src="images/hz5_21.jpg" border="0" /></a>
+				</div>
+				<div id="demo2" class="demo2"></div>
 			</div>
 		</div>
 	</div>
+</div>
+<div class="w-100">
+	<img src="images/gzf2_08.jpg" alt="" style="width: 100%;"/>
+</div>
+<div class="w-1000 pc-20">
+	<img src="images/gzf3_11.jpg" alt="" />
+</div>
+<div class="w-100 pc-20">
+	<img src="images/gzf4_14.jpg" alt="" style="width: 100%;"/>
+</div>
+<div class="w-100">
+	<div class="w-1000"><img src="images/yhabl_69.jpg" alt="" /></div>
 </div>
 <div class="cy-w">
 	<div class="w-1000">
