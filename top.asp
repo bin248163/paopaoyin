@@ -44,7 +44,7 @@
 					<li><a href="#">特需定制</a></li>
 					<li><a href="#">酒店服装</a></li>
 					<li><a href="#">关于我们</a></li>
-					<li><a href="#">联系我们</a></li>
+					<li><a href="about.asp">联系我们</a></li>
 				</ul>
 			</div>
 		</div>

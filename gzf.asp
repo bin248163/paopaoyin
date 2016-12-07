@@ -1,8 +1,8 @@
 <!--#include file="top.asp"-->
-<div class="n-banner" style="background-image: url(images/n2_02.jpg);"></div>
+<div class="n-banner" style="background-image: url(images/n3_02.jpg);"></div>
 <div class="w-1000">
 	<h1 class="wz pc-20">
-		所在位置：<a href="">首页</a> > <a href="">工作服</a>
+		所在位置：<a href="">首页</a> > <a href="">关于我们</a>
 	</h1>
 </div>
 <div class="w-1000">

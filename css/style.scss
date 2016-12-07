@@ -53,7 +53,7 @@ a{text-decoration:none;color:#444;
     img{width: 100%;}
 }//页面顶部联系电话
 .n-left{width: $n-left;float: left;padding-right: 10px;}//内页左侧
-.n-right{width: $width -($n-left +10px);float: left;}//内页右侧
+.n-right{width: $width -($n-left +20px);float: right;}//内页右侧
 .n-banner{height: 550px;min-width: $width;background-repeat: no-repeat;background-position: center top;}
 
 //标题部分
@@ -85,6 +85,10 @@ h5{font-size: 11px;line-height: 15px;color: $color;color: #fff;@include en;}
     } 
 }
 //
+.nab5{width: 178px;border: 1px solid #d6d6d6;float: left;margin: 0 10px;text-align: center;padding: 20px 0;
+    i{width: 101px;margin: 20px auto;}
+    p{padding-top: 10px;font-size: 16px;}
+}
 .wn{width: 205px;height: 269px;overflow: hidden;float: left;}
 .wnr{float: left;width: 995px;
     .wl{float: left;width: 138px;margin-left:4px;overflow: hidden;position: relative;
@@ -200,18 +204,7 @@ h5{font-size: 11px;line-height: 15px;color: $color;color: #fff;@include en;}
 .tab-rightn{width: ($width - ($left + 15px))* 10;overflow: hidden;}
 .tab-con{width: $width - ($left + 15px);float: left;font-size: 0;letter-spacing:-3px;}
  
-//内页左侧导航
-.n-tab-left{width: $n-left;
-    ul{
-        li{width: 100%;border-bottom: 1px solid #fff;position: relative;background: #fff;
-            a{display: block;width: 100%;height: 43px;line-height: 43px;text-align: center;font-size: 15px;} 
-            i{@include triangle-right(11px,1.2,#e5e2e2);position: absolute;z-index: 1;top:12px ;left: 27px;} 
-            &:hover{background: $color;
-                a{color: #fff;}
-            }     
-        }
-    }
-}
+
 .ab{margin-bottom: 30px;
     
     h2{line-height: 40px;border-bottom: 1px solid #d6d6d6;position: relative;overflow: hidden;font-size: 16px;
@@ -248,18 +241,47 @@ h5{font-size: 11px;line-height: 15px;color: $color;color: #fff;@include en;}
 .demo {background: #FFF;overflow:hidden;width: 100%; }
 .indemo {float: left;width: 800%; overflow:hidden}
 .demo1 {float: left;
-    a{ display:block; width:185px;float:left;margin-right:10px; 
-        img{width: 100%;} 
+    a{ display:block; width:205px;float:left;margin-right:10px; 
+        img{margin:0 auto;} 
         span{ float:left; font-size:12px; text-align:center; width:100%} 
     }
 }
 .demo2 {float: left;
-    a{ display:block; width:185px;float:left;margin-right:10px; 
-        img{width: 100%;} 
+    a{ display:block; width:205px;float:left;margin-right:10px; 
+        img{margin:0 auto;} 
         span{ float:left; font-size:12px; text-align:center; width:100%} 
     }
 }
+.dn{width: 100%;border-bottom: 1px dashed #d6d6d6;padding:10px 0;overflow: hidden;line-height: 23px;
+    i{float: left;width: 57px;height: 57px;background-image: url(../images/i3.jpg);background-repeat: no-repeat;}
+    span{color: $color;font-size: 16px;display: block;float: left;padding-left: 10px;padding-top: 5px;}
+    p{font-size: 14px;float: left;padding-left: 10px;}
+}
+.dni1{background-position: 0 0;}
+.dni2{background-position: 0 -60px;}
+.dni3{background-position: 0 -120px;}
+.dni4{background-position: 0 -180px;}
+.n-lx{padding: 30px;
+    span{font-size: 26px;}
+    p{font-size: 14px;padding: 10px 0;}
+    a{display: inline-block;height: 33px;padding: 0 30px;background:$color;text-align: center;line-height: 33px;font-size: 15px;color: #fff;}
+}
+.la{display: block;padding: 10px 0 15px;}
 
+//内页左侧导航
+.n-tab-left{width: $n-left;
+    span{height: 45px;display: block;background: $color;font-size: 18px;text-align: center;color: #fff;line-height: 45px;}
+    ul{
+        li{width: 100%;border-bottom: 1px solid #fff;position: relative;background: #e9e9e9;
+            a{display: block;width: 100%;height: 43px;line-height: 43px;text-align: center;font-size: 15px;} 
+            i{@include triangle-right(5px,1.2,#fff);position: absolute;z-index: 1;top:18px ;left: 27px;} 
+            &:hover{
+                a{color: $color;}
+                i{@include triangle-right(5px,1.2,$color);}
+            }     
+        }
+    }
+}
 //首页下方新闻资讯
 .news{width:($width - 30px)/3;float: left;
     ul{padding-top: 10px;

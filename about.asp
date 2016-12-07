@@ -1,52 +1,130 @@
 <!--#include file="top.asp"-->
-<div class="n-banner" style="background-image: url(images/n2_02.jpg);"></div>
+<div class="n-banner" style="background-image: url(images/n3_02.jpg);"></div>
 <div class="w-1000">
 	<h1 class="wz pc-20">
-		所在位置：<a href="">首页</a> > <a href="">工作服</a>
+		所在位置：<a href="">首页</a> > <a href="">关于我们</a>
 	</h1>
 </div>
-<div class="w-1000">
-	<img src="images/gzf1_05.jpg" alt="" style="margin: 20px auto;" />
-</div>
-<div class="w-1000 pt-10">
-	<div class="hzl"><img src="images/hz_19.jpg" alt="" /></div>
-	<div class="hzr">
-		<div id="demo" class="demo">
-			<div id="indemo" class="indemo">
-				<div id="demo1" class="demo1">
-					<a href="case.asp"><img src="images/hz1_21.jpg" border="0" /></a>
-					<a href="case.asp"><img src="images/hz2_21.jpg" border="0" /></a>
-					<a href="case.asp"><img src="images/hz3_21.jpg" border="0" /></a>
-					<a href="case.asp"><img src="images/hz4_21.jpg" border="0" /></a>
-					<a href="case.asp"><img src="images/hz5_21.jpg" border="0" /></a>
-				</div>
-				<div id="demo2" class="demo2"></div>
-			</div>
+<div class="w-1000 pc-20">
+	<div class="n-left">
+		<div class="n-tab-left">
+			<span>关于泡泡网印刷平台</span>
+			<ul>
+				<li><i></i>
+					<a href="" id="jjie">与众不同</a>
+				</li>
+				<li><i></i>
+					<a href="" id="whua">信念与信仰</a>
+				</li>
+			</ul>
+		</div>
+		<div class="dn">
+			<i class="dni1"></i>
+			<span>多年专注</span>
+			<p>一流的服务体系</p>
+		</div>
+		<div class="dn">
+			<i class="dni2"></i>
+			<span>专业团队</span>
+			<p>资深的专业团队</p>
+		</div>
+		<div class="dn">
+			<i class="dni3"></i>
+			<span>客户至上</span>
+			<p>为客户不断创新</p>
+		</div>
+		<div class="dn">
+			<i class="dni4"></i>
+			<span>团体服装定制</span>
+			<p>为您打造完美着装</p>
+		</div>
+	</div>
+	<div class="n-right">
+		<img src="images/nab1_05.jpg" alt="" style="float: left;"/>
+		<div style="width: 500px;float: right;">
+			<h1 style="font-size: 30px;">公司介绍<span style="font-size: 22px;">Company profile</span></h1>
+			<p style="padding-top: 20px;font-size: 18px;line-height: 36px;">泡泡印刷平台西安T恤衫定做，成长在古城西安，而将服务 拓展到全国各地 （北京﹑上海﹑南京﹑苏州﹑西安﹑宁夏等 地，都有我们的客户并与我们长期合作）我们制作的，广告 衫﹑文化衫﹑polo衫﹑西服﹑工装﹑帽子等广告印刷服装制 品，以质量优，货品丰富齐全，服务好，深受用户好评！并 在西安广告衫行业拥有自己的品牌优势，我们的目地是将自 己最好的广告服装印刷品，呈现给客户，让我们对广告艺术 的萌动和青春的激情一起融入到我们的产品之中！期待与您 合作，竭诚为您服务， 品质一流，坚如磐石！</p>
 		</div>
 	</div>
 </div>
+<div class="w-100">
+	<img src="images/nab2_08.jpg" alt="" style="width: 100%;"/>
+</div>
+<div class="w-1000 pt-10">
+	<img src="images/nab3_11.jpg" alt="" style="margin: 40px 0 20px;"/>
+</div>
+<div class="w-100 pb-20">
+	<img src="images/nab4_14.jpg" alt="" style="width: 100%;"/>
+</div>
+<div class="w-1000 pc-20">
+	<div class="nab5">
+		<i><img src="images/ai1_17.jpg" alt="" /></i>
+		<p>10年专业服装<br />
+定制经验</p>
+	</div>
+	<div class="nab5">
+		<i><img src="images/ai2_17.jpg" alt="" /></i>
+		<p>3600多家合作<br />
+企业</p>
+	</div>
+	<div class="nab5">
+		<i><img src="images/ai3_17.jpg" alt="" /></i>
+		<p>西安专业服装<br />
+定制公司</p>
+	</div>
+	<div class="nab5">
+		<i><img src="images/ai4_17.jpg" alt="" /></i>
+		<p>智能化加工厂<br />
+技术领先</p>
+	</div>
+	<div class="nab5">
+		<i><img src="images/ai5_17.jpg" alt="" /></i>
+		<p>顶级的设计能力<br />
+600+设计师</p>
+	</div>
+	<div class="nab5">
+		<i><img src="images/ai6_17.jpg" alt="" /></i>
+		<p>线下服装厂<br />
+为客户节省20%预算</p>
+	</div>
+</div>
+<div class="w-1000">
+	<img src="images/nab5_21.jpg" alt="" style="margin: 20px auto;"/>
+</div>
+<div class="w-100">
+	<img src="images/nab6_24.jpg" alt="" style="width: 100%;margin: 20px auto;"/>
+</div>
+
+
+
 <div class="w-100 pc-20">
-	<img src="images/gzf2_08.jpg" alt="" style="width: 100%;margin: 20px auto;"/>
+	<img src="images/gzf2_08.jpg" alt="" style="width: 100%;margin: 20px auto;" />
 </div>
 <div class="w-1000 pc-20">
 	<img src="images/gzf3_11.jpg" alt="" />
 </div>
 <div class="w-100 pc-20">
-	<img src="images/gzf4_14.jpg" alt="" style="width: 100%;"/>
+	<img src="images/gzf4_14.jpg" alt="" style="width: 100%;" />
 </div>
 <div class="w-100">
-	<div class="w-1000 pc-20"><img src="images/yh1_17.jpg" alt="" style="margin: 0 auto;"/></div>
-	<div class="yh"><div class="w-1000 pc-20"><img src="images/yh2_17.jpg" alt="" style="margin: 0 auto;"/></div></div>
-	<div class="w-1000 pc-20"><img src="images/yh3_17.jpg" alt="" style="margin: 0 auto;"/></div>
-	<div class="yh"><div class="w-1000 pc-20"><img src="images/yh4_29.jpg" alt="" style="margin: 0 auto;"/></div></div>
-	<div class="w-1000 pc-20"><img src="images/yh5_32.jpg" alt="" style="margin: 0 auto;"/></div>
-	<div class="yh"><div class="w-1000 pt-20"><img src="images/yh6_36.jpg" alt="" style="margin: 0 auto;"/></div></div>
+	<div class="w-1000 pc-20"><img src="images/yh1_17.jpg" alt="" style="margin: 0 auto;" /></div>
+	<div class="yh">
+		<div class="w-1000 pc-20"><img src="images/yh2_17.jpg" alt="" style="margin: 0 auto;" /></div>
+	</div>
+	<div class="w-1000 pc-20"><img src="images/yh3_17.jpg" alt="" style="margin: 0 auto;" /></div>
+	<div class="yh">
+		<div class="w-1000 pc-20"><img src="images/yh4_29.jpg" alt="" style="margin: 0 auto;" /></div>
+	</div>
+	<div class="w-1000 pc-20"><img src="images/yh5_32.jpg" alt="" style="margin: 0 auto;" /></div>
+	<div class="yh">
+		<div class="w-1000 pt-20"><img src="images/yh6_36.jpg" alt="" style="margin: 0 auto;" /></div>
+	</div>
 </div>
 <div class="w-100">
-	<img src="images/50_42.jpg" alt="" style="width: 100%;"/>
+	<img src="images/50_42.jpg" alt="" style="width: 100%;" />
 </div>
 <div class="w-100 pt-20">
-	
+
 	<div class="w-1000 pt-20">
 		<div class="ab">
 			<h2>About us/正职帮简历
@@ -134,15 +212,13 @@
 	</div>
 </div>
 
-
 <div class="w-1000">
 	<img src="images/lc_53.jpg" alt="" style="margin:60px auto; 0" />
 	<img src="images/lc1_57.jpg" alt="" style="margin: 40px auto 20px;" />
 </div>
 
-
 <div class="w-1000 pc-20">
-	<img src="images/pl_21.jpg" alt="" style="width: 100%;"/>
+	<img src="images/pl_21.jpg" alt="" style="width: 100%;" />
 </div>
 <div class="link-w">
 	<div class="link">
