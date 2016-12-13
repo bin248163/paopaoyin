@@ -14,7 +14,7 @@
 					<a href="about1.asp" id="jjie">与众不同</a>
 				</li>
 				<li><i></i>
-					<a href="" id="whua">信念与信仰</a>
+					<a href="about2.asp" id="whua">信念与信仰</a>
 				</li>
 			</ul>
 		</div>

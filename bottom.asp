@@ -89,7 +89,7 @@
 		<div class="w-1000">
 			<p class="bot-p1">
 				版权所有 2015-2018泡泡网印刷平台 陕ICP备11020000-1号 技术支持：
-				<a href="http://bapingyun.com/">北京霸屏科技</a>
+				<a href="http://bapingyun.com/">霸屏科技</a>
 			</p>
 		</div>
 	</div>
