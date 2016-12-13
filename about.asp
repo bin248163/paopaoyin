@@ -94,132 +94,15 @@
 <div class="w-100">
 	<img src="images/nab6_24.jpg" alt="" style="width: 100%;margin: 20px auto;"/>
 </div>
-
-
-
-<div class="w-100 pc-20">
-	<img src="images/gzf2_08.jpg" alt="" style="width: 100%;margin: 20px auto;" />
-</div>
-<div class="w-1000 pc-20">
-	<img src="images/gzf3_11.jpg" alt="" />
-</div>
-<div class="w-100 pc-20">
-	<img src="images/gzf4_14.jpg" alt="" style="width: 100%;" />
-</div>
-<div class="w-100">
-	<div class="w-1000 pc-20"><img src="images/yh1_17.jpg" alt="" style="margin: 0 auto;" /></div>
-	<div class="yh">
-		<div class="w-1000 pc-20"><img src="images/yh2_17.jpg" alt="" style="margin: 0 auto;" /></div>
-	</div>
-	<div class="w-1000 pc-20"><img src="images/yh3_17.jpg" alt="" style="margin: 0 auto;" /></div>
-	<div class="yh">
-		<div class="w-1000 pc-20"><img src="images/yh4_29.jpg" alt="" style="margin: 0 auto;" /></div>
-	</div>
-	<div class="w-1000 pc-20"><img src="images/yh5_32.jpg" alt="" style="margin: 0 auto;" /></div>
-	<div class="yh">
-		<div class="w-1000 pt-20"><img src="images/yh6_36.jpg" alt="" style="margin: 0 auto;" /></div>
-	</div>
-</div>
-<div class="w-100">
-	<img src="images/50_42.jpg" alt="" style="width: 100%;" />
-</div>
-<div class="w-100 pt-20">
-
-	<div class="w-1000 pt-20">
-		<div class="ab">
-			<h2>About us/正职帮简历
-				<i><img src="images/ab_65.jpg" alt="" /></i>
-				<a href="">查看更多+</a>
-			</h2>
-		</div>
-	</div>
-	<div class="w-1000">
-		<div class="abl"><img src="images/abl_69.jpg" alt="" /></div>
-		<div class="abr">
-			<h2>西安正职帮服饰有限公司</h2>
-			<p>西安正职帮服饰有限公司是中国一个团体服装一站式定制机构与时尚职业装快时尚品。业务模式为时下最先进的 O2O模式，在每个省会城 市都会有一家专业为企业解决统一着装需求的办公室门店。西安博溢电子商务始于2007年， 一直致力于互联网电子商务领域。正职帮创立 于2012年，是一家互联网O2O本地化运营理念的品牌服装定制。主要将 业务分开为两块团体服装需求定制与时尚职业服装快销。</p>
-			<div>
-				<a href="" style="background: #666;">查看详情</a>
-				<a href="">查看荣誉资质</a>
-			</div>
-		</div>
-	</div>
-	<div class="w-1000 pc-20">
-		<span class="gd_prev"><</span>
-		<span class="gd_next">></span>
-		<div class="gd">
-
-			<div class="gd_main">
-				<div class="gd_main_div">
-					<div class="gd_main_span1">
-						<a href="#" class="gd_main_a1"><img src="images/sc1_61.jpg" /></a>
-						<a href="#" class="gd_main_a2">生产车间</a>
-					</div>
-					<div class="gd_main_span1">
-						<a href="#" class="gd_main_a1"><img src="images/sc2_61.jpg" /></a>
-						<a href="#" class="gd_main_a2">生产设备</a>
-					</div>
-					<div class="gd_main_span1">
-						<a href="#" class="gd_main_a1"><img src="images/sc3_61.jpg" /></a>
-						<a href="#" class="gd_main_a2">生产线</a>
-					</div>
-					<div class="gd_main_span1">
-						<a href="#" class="gd_main_a1"><img src="images/sc4_61.jpg" /></a>
-						<a href="#" class="gd_main_a2">打样制板</a>
-					</div>
-				</div>
-				<div class="gd_main_div">
-					<div class="gd_main_span1">
-						<a href="#" class="gd_main_a1"><img src="images/sc1_61.jpg" /></a>
-						<a href="#" class="gd_main_a2">生产车间</a>
-					</div>
-					<div class="gd_main_span1">
-						<a href="#" class="gd_main_a1"><img src="images/sc2_61.jpg" /></a>
-						<a href="#" class="gd_main_a2">生产设备</a>
-					</div>
-					<div class="gd_main_span1">
-						<a href="#" class="gd_main_a1"><img src="images/sc3_61.jpg" /></a>
-						<a href="#" class="gd_main_a2">生产线</a>
-					</div>
-					<div class="gd_main_span1">
-						<a href="#" class="gd_main_a1"><img src="images/sc4_61.jpg" /></a>
-						<a href="#" class="gd_main_a2">打样制板</a>
-					</div>
-				</div>
-
-			</div>
-		</div>
-	</div>
-</div>
-<div class="w-1000 pc-20">
-	<h1 class="h1 mb-15">Co-brand 合作品牌</h1>
-	<div class="w-1000">
-		<a href="" class="link-a br-1 bb-1"><img src="images/l1_44.jpg" alt="" /></a>
-		<a href="" class="link-a br-1 bb-1"><img src="images/l2_44.jpg" alt="" /></a>
-		<a href="" class="link-a br-1 bb-1"><img src="images/l3_44.jpg" alt="" /></a>
-		<a href="" class="link-a br-1 bb-1"><img src="images/l4_44.jpg" alt="" /></a>
-		<a href="" class="link-a bb-1"><img src="images/l5_44.jpg" alt="" /></a>
-		<a href="" class="link-a br-1 bb-1"><img src="images/l6_44.jpg" alt="" /></a>
-		<a href="" class="link-a br-1 bb-1"><img src="images/l7_44.jpg" alt="" /></a>
-		<a href="" class="link-a br-1 bb-1"><img src="images/l8_44.jpg" alt="" /></a>
-		<a href="" class="link-a br-1 bb-1"><img src="images/l9_44.jpg" alt="" /></a>
-		<a href="" class="link-a bb-1"><img src="images/l10_44.jpg" alt="" /></a>
-		<a href="" class="link-a br-1"><img src="images/l11_44.jpg" alt="" /></a>
-		<a href="" class="link-a br-1"><img src="images/l12_44.jpg" alt="" /></a>
-		<a href="" class="link-a br-1"><img src="images/l13_44.jpg" alt="" /></a>
-		<a href="" class="link-a br-1"><img src="images/l14_44.jpg" alt="" /></a>
-		<a href="" class="link-a"><img src="images/l15_44.jpg" alt="" /></a>
-	</div>
-</div>
-
 <div class="w-1000">
-	<img src="images/lc_53.jpg" alt="" style="margin:60px auto; 0" />
-	<img src="images/lc1_57.jpg" alt="" style="margin: 40px auto 20px;" />
+	<img src="images/zz_03.jpg" alt="" style="margin: 20px auto;"/>
 </div>
 
-<div class="w-1000 pc-20">
-	<img src="images/pl_21.jpg" alt="" style="width: 100%;" />
-</div>
+
+
+
+
+<div class="w-1000"></div>
 <div class="link-w">
 	<div class="link">
 		<a href="">正职帮</a>
