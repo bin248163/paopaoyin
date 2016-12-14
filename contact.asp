@@ -48,8 +48,7 @@ E-mail:zzb@126.com <br />
 		</p>
 		<div style="margin: 0 0 20px 0;">
 			<span style="color: #fff;font-size: 16px;padding: 5px 20px;background: #e52524;">公司地图</span>
-		</div>
-		
+		</div>		
 		<iframe src="map.html" width="980px" height="396px"  frameborder="0" scrolling="no"></iframe>
 	</div>
 </div>

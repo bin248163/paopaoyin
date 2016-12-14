@@ -107,6 +107,13 @@ h5{font-size: 11px;line-height: 15px;color: $color;color: #fff;@include en;}
 .zx{float: right;overflow: hidden;width: 995px;
     img{width: 24%;margin-left:1%;float: left;}
 }
+.jz{float: left;width: 386px;text-align: center;background: #e5e5e5;
+    img{width: 100%;}
+    h2{font-size: 22px;position: relative;line-height: 40px;padding-top: 20px;
+        &:before{border-bottom: 2px solid $color;position: absolute;bottom: 0;width: 50px;content: "";left: 50%;margin-left: -25px;}
+    }
+    p{line-height: 24px;padding-top: 10px;padding-bottom: 20px;font-size: 16px;}
+}
 .yh{background:#f4f1f1;}
 .title{padding: 60px 0 10px;}
 .dkh{margin-top: 20px;
