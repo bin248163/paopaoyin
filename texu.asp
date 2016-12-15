@@ -36,44 +36,68 @@
 <div class="w-1000">
 	<img src="images/tx4_20.jpg" alt="" style="margin: 20px auto;" />
 </div>
-
-
-
-
-
-<div class="w-1000 pt-10">
-	<div class="hzl"><img src="images/hz_19.jpg" alt="" /></div>
-	<div class="hzr">
-		<div id="demo" class="demo">
-			<div id="indemo" class="indemo">
-				<div id="demo1" class="demo1">
-					<a href="case.asp"><img src="images/hz1_21.jpg" border="0" /></a>
-					<a href="case.asp"><img src="images/hz2_21.jpg" border="0" /></a>
-					<a href="case.asp"><img src="images/hz3_21.jpg" border="0" /></a>
-					<a href="case.asp"><img src="images/hz4_21.jpg" border="0" /></a>
-					<a href="case.asp"><img src="images/hz5_21.jpg" border="0" /></a>
-				</div>
-				<div id="demo2" class="demo2"></div>
-			</div>
+<h1 style="font-size: 30px;text-align: center;padding: 20px 0;">我们的设计师</h1>
+<div class="w-1000">
+	<div class="jz mr-20">
+		<img src="images/xt1_03.jpg" alt="" />
+		<div>小兔</div>
+	</div>
+	<div class="jz mr-20">
+		<img src="images/xt2_03.jpg" alt="" />
+		<div>小敏</div>
+	</div>
+	<div class="jz">
+		<img src="images/xt3_03.jpg" alt="" />
+		<div></div>
+	</div>
+</div>
+<h1 style="font-size: 30px;text-align: center;padding: 40px 0 0;">一流技术团队</h1>
+<p  style="font-size: 18px;text-align: center;padding: 20px 0;line-height: 36px;">泡泡网印刷平台团队由国内外知名服装设计师、中国高级服装设计师、外聘专家<br />
+三部分组成； 我们一直重视设计师队伍的建设，不断优化服装质量，吸纳人才<br />
+组建专业服装设计师团队。</p>
+<div class="w-1000"><img src="images/hzh_07.jpg" alt="" style="margin: 20px 0;"/></div>
+<div class="w-100">
+	<img src="images/rh_10.jpg" alt="" style="width: 100%;padding: 40px 0 0"/>
+</div>
+<div class="w-100">
+	<img src="images/hdd_11.jpg" alt="" style="width: 100%;"/>
+</div>
+<div style="background: #f5f6f7;">
+	<h1 style="font-size: 28px;color: #f00;text-align: center;padding: 40px 0 20px;">常见问题答疑</h1>
+	<div style="border-bottom: 1px solid #f00;height: 20px;margin-bottom: 30px;">
+		<h2 style="text-align: center;line-height: 40px;font-size: 25px;color: #f00;"><span style="background: #f5f6f7;padding: 0 10px;">Suit details</span></h2>
+	</div>
+	<div class="w-1000">
+		<div class="wt">
+			<img src="images/wt1_14.jpg" alt="" />
+			<ul>
+				<li><a href="">家里西装如何更好的存放？</a></li>
+				<li><a href="">西装的面料有什么区别？</a></li>
+				<li><a href="">西装的起源？</a></li>
+				<li><a href="">关于西装的故事？</a></li>
+				<li><a href="">职场的注意事项有哪些？</a></li>
+				<li><a href="">正职帮的西装</a></li>
+				<li><a href="">更多问题</a></li>
+			</ul>
+		</div>
+		<div class="wt" style="float: right;">
+			<img src="images/wt2_14.jpg" alt="" />
+			<ul>
+				<li><a href="">西安西装定制有几家？</a></li>
+				<li><a href="">职场潜规则</a></li>
+				<li><a href="">购买西装的注意事项</a></li>
+				<li><a href="">关于西装的故事？</a></li>
+				<li><a href="">西装选哪家好</a></li>
+				<li><a href="">正职帮西装有哪些优势？</a></li>
+				<li><a href="">更多问题</a></li>
+			</ul>
 		</div>
 	</div>
 </div>
-<div class="w-1000 pc-20">
-	<img src="images/sl_09.jpg" alt="" style="margin: 40px auto;"/>
-</div>
-<div class="w-100" style="background: url(images/sl1_12.jpg) no-repeat center top;height: 2246px;"></div>
-<div class="w-100 pc-20">
-	<img src="images/gzf4_14.jpg" alt="" style="width: 100%;"/>
-</div>
-<div class="w-100" style="background: url(images/jd3_14.jpg) no-repeat center top;height: 1045px;"></div>
-<div class="w-100">
-	<img src="images/50_42.jpg" alt="" style="width: 100%;"/>
-</div>
 
-<div class="w-1000">
-	<img src="images/lc_53.jpg" alt="" style="margin:60px auto; 0" />
-	<img src="images/lc1_57.jpg" alt="" style="margin: 40px auto 20px;" />
-</div>
+
+
+
 
 
 <div class="w-1000 pc-20">
