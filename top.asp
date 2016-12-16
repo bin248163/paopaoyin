@@ -3,9 +3,9 @@
 
 	<head>
 		<meta charset="utf-8" />
-		<title>正职帮</title>
-		<meta name="description" content="正职帮" />
-		<meta name="keywords" content="正职帮" />
+		<title>西安广告衫_西安文化衫_西安T恤定做泡泡网印刷平台，西安文化衫定做,西安文化衫定制,西安广告衫定做,西安t恤衫，西安班服定做,短袖t恤定做,衣服印字</title>
+		<meta name="description" content="西安正职帮服饰定做工厂旗下泡泡印T恤 电话:13201469777 座机:029-87361006 提供西安广告衫,西安文化衫,T恤印字，T恤定做，T恤定制，广告帽，广告伞，文化衫，广告衫" />
+		<meta name="keywords" content="泡泡印,短袖t恤定制,西安广告衫,文化衫,陕西t恤定做,广告衫,西安文化衫,文化衫定做,广告衫定做,衣服印字,西安文化衫,文化衫印字,广告衫印字,文化衫定制,广告衫定制,t恤定制,t恤定做" />
 		<link href="images/favicon.ico" type="image/x-icon" rel="shortcut icon" />
 		<link href="css/style.css" rel="stylesheet" />
 		<script>
@@ -16,7 +16,7 @@
 				var urlhash = window.location.hash;
 				if(!urlhash.match("fromapp")) {
 					if((navigator.userAgent.match(/(iPhone|iPod|Android|ios|iPad)/i))) {
-						window.location.href = "/m";
+						window.location.href = "http://paopaoyin.com/wap/";
 					}
 				}
 			} catch(err) {}
@@ -34,7 +34,7 @@
 			<div class="nav" id="nav">
 				<ul>
 					<li>
-						<a href="index.asp" class="this">首页</a>
+						<a href="index.asp">首页</a>
 					</li>
 					<li><a href="xizhuang.asp">西装</a></li>
 					<li><a href="chenyi.asp">衬衣</a></li>
