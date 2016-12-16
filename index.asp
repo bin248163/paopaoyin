@@ -3,13 +3,13 @@
 	<div id="banner_tabs" class="flexslider">
 		<ul class="slides">
 			<li>
-				<a href="#"><img style="background: url(images/banner1_02.jpg) no-repeat center;" /></a>
+				<a href="http://p.qiao.baidu.com/cps/chat?siteId=10206183&userId=2464485"><img style="background: url(images/banner1_02.jpg) no-repeat center;" /></a>
 			</li>
 			<li>
-				<a href="#"><img style="background: url(images/banner1_02.jpg) no-repeat center;" /></a>
+				<a href="http://p.qiao.baidu.com/cps/chat?siteId=10206183&userId=2464485"><img style="background: url(images/banner1_02.jpg) no-repeat center;" /></a>
 			</li>
 			<li>
-				<a href="#"><img style="background: url(images/banner1_02.jpg) no-repeat center;" /></a>
+				<a href="http://p.qiao.baidu.com/cps/chat?siteId=10206183&userId=2464485"><img style="background: url(images/banner1_02.jpg) no-repeat center;" /></a>
 			</li>
 		</ul>
 		<ul class="flex-direction-nav">
@@ -42,7 +42,7 @@
 		<div class="wl">
 			<img src="images/w2_15.jpg" alt="" />
 			<div>
-				<a href="">
+				<a href="xizhuang.asp">
 					<i><img src="images/jia.png" alt="" /></i>
 					<h1>西装定制</h1>
 				</a>
@@ -51,7 +51,7 @@
 		<div class="wl">
 			<img src="images/w1_16.jpg" alt="" />
 			<div>
-				<a href="">
+				<a href="chenyi.asp">
 					<i><img src="images/jia.png" alt="" /></i>
 					<h1>衬衣定制</h1>
 				</a>
@@ -60,7 +60,7 @@
 		<div class="wl">
 			<img src="images/w3_16.jpg" alt="" />
 			<div>
-				<a href="">
+				<a href="cfy.asp">
 					<i><img src="images/jia.png" alt="" /></i>
 					<h1>冲锋衣定制</h1>
 				</a>
@@ -69,7 +69,7 @@
 		<div class="wl">
 			<img src="images/w4_16.jpg" alt="" />
 			<div>
-				<a href="">
+				<a href="gzf.asp">
 					<i><img src="images/jia.png" alt="" /></i>
 					<h1>工作服定制</h1>
 				</a>
@@ -78,7 +78,7 @@
 		<div class="wl">
 			<img src="images/w5_15.jpg" alt="" />
 			<div>
-				<a href="">
+				<a href="xiaofu.asp">
 					<i><img src="images/jia.png" alt="" /></i>
 					<h1>校服定制</h1>
 				</a>
@@ -87,7 +87,7 @@
 		<div class="wl">
 			<img src="images/w6_15.jpg" alt="" />
 			<div>
-				<a href="">
+				<a href="texu.asp">
 					<i><img src="images/jia.png" alt="" /></i>
 					<h1>广告衫短袖T恤</h1>
 				</a>
@@ -96,7 +96,7 @@
 		<div class="wl">
 			<img src="images/w7_15.jpg" alt="" />
 			<div>
-				<a href="">
+				<a href="jiudian.asp">
 					<i><img src="images/jia.png" alt="" /></i>
 					<h1>酒店服装</h1>
 				</a>
@@ -139,14 +139,15 @@
 </div>
 <div class="w-1000">
 	<img src="images/pp1_29.jpg" alt="" style="margin:20px auto;" />
-	<img src="images/pp2_32.jpg" alt="" style="margin:20px auto;" />
+	<a href="http://p.qiao.baidu.com/cps/chat?siteId=10206183&userId=2464485"><img src="images/pp2_32.jpg" alt="" style="margin:20px auto;" /></a>
+	
 </div>
 <div class="w-100b">
 	<div class="w-1000 pc-20">
 		<div class="ry">
 			<h2>荣誉资质
 				<i><img src="images/rys_35.jpg" alt="" /></i>
-				<a href="">MORE+</a>
+				<a href="about.asp">MORE+</a>
 			</h2>
 		</div>
 		<div class="ryx">
@@ -178,7 +179,7 @@
 		<div class="ab">
 			<h2>About us/正职帮简历
 				<i><img src="images/ab_65.jpg" alt="" /></i>
-				<a href="">查看更多+</a>
+				<a href="about.asp">查看更多+</a>
 			</h2>
 		</div>
 	</div>
@@ -188,8 +189,8 @@
 			<h2>西安正职帮服饰有限公司</h2>
 			<p>西安正职帮服饰有限公司是中国一个团体服装一站式定制机构与时尚职业装快时尚品。业务模式为时下最先进的 O2O模式，在每个省会城 市都会有一家专业为企业解决统一着装需求的办公室门店。西安博溢电子商务始于2007年， 一直致力于互联网电子商务领域。正职帮创立 于2012年，是一家互联网O2O本地化运营理念的品牌服装定制。主要将 业务分开为两块团体服装需求定制与时尚职业服装快销。</p>
 			<div>
-				<a href="" style="background: #666;">查看详情</a>
-				<a href="">查看荣誉资质</a>
+				<a href="about.asp" style="background: #666;">查看详情</a>
+				<a href="about.asp">查看荣誉资质</a>
 			</div>
 		</div>
 	</div>
@@ -289,3 +290,10 @@
 
 
 <!--#include file="bottom.asp"-->
+	<script type="text/javascript">
+		function curNav(num) {
+			var nav = $('#nav ul li');
+			nav.eq(num).addClass('this');
+		}
+		curNav(0);
+	</script>

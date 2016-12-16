@@ -40,7 +40,7 @@
 					<li><a href="chenyi.asp">衬衣</a></li>
 					<li><a href="cfy.asp">冲锋衣</a></li>
 					<li><a href="gzf.asp">工作服</a></li>
-					<li><a href="#">校服</a></li>
+					<li><a href="xiaofu.asp">校服</a></li>
 					<li><a href="texu.asp">特需定制</a></li>
 					<li><a href="jiudian.asp">酒店服装</a></li>
 					<li><a href="about.asp">关于我们</a></li>

@@ -55,9 +55,10 @@
 <p  style="font-size: 18px;text-align: center;padding: 20px 0;line-height: 36px;">泡泡网印刷平台团队由国内外知名服装设计师、中国高级服装设计师、外聘专家<br />
 三部分组成； 我们一直重视设计师队伍的建设，不断优化服装质量，吸纳人才<br />
 组建专业服装设计师团队。</p>
-<div class="w-1000"><img src="images/hzh_07.jpg" alt="" style="margin: 20px 0;"/></div>
+<div class="w-1000"><a href="http://p.qiao.baidu.com/cps/chat?siteId=10206183&userId=2464485" target="_blank"><img src="images/hzh_07.jpg" alt="" style="margin: 20px 0;"/></a></div>
 <div class="w-100">
-	<img src="images/rh_10.jpg" alt="" style="width: 100%;padding: 40px 0 0"/>
+	<a href="http://p.qiao.baidu.com/cps/chat?siteId=10206183&userId=2464485" target="_blank"><img src="images/rh_10.jpg" alt="" style="width: 100%;padding: 40px 0 0"/></a>
+	
 </div>
 <div class="w-100">
 	<img src="images/hdd_11.jpg" alt="" style="width: 100%;"/>
@@ -105,3 +106,10 @@
 </div>
 
 <!--#include file="bottom.asp"-->
+	<script type="text/javascript">
+		function curNav(num) {
+			var nav = $('#nav ul li');
+			nav.eq(num).addClass('this');
+		}
+		curNav(6);
+	</script>

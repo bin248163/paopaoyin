@@ -77,11 +77,11 @@ h5{font-size: 11px;line-height: 15px;color: $color;color: #fff;@include en;}
                 }
             }
             &:hover{
-                a{background: #666;background: rgba(0,0,0,.3);}
+                a{background: $color;}
                 ul{display: block}
             }
         } 
-        li.this{a{background: #666;background: rgba(0,0,0,.3);}}
+        li.this{a{background: $color;}}
     } 
 }
 //

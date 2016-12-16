@@ -30,7 +30,7 @@
 	<img src="images/cy2_08.jpg" alt="" />
 </div>
 <div class="w-100">
-	<a href=""><img src="images/gzf2_08.jpg" alt="" style="width: 100%;margin: 40px auto;"/></a>
+	<a href="http://p.qiao.baidu.com/cps/chat?siteId=10206183&userId=2464485" target="_blank"><img src="images/gzf2_08.jpg" alt="" style="width: 100%;margin: 40px auto;"/></a>
 </div>
 <div class="w-1000 pc-20">
 	<img src="images/ttd_03.jpg" alt="" style="margin: 0 auto;"/>
@@ -51,3 +51,10 @@
 </div>
 
 <!--#include file="bottom.asp"-->
+	<script type="text/javascript">
+		function curNav(num) {
+			var nav = $('#nav ul li');
+			nav.eq(num).addClass('this');
+		}
+		curNav(3);
+	</script>

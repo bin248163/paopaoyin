@@ -45,7 +45,8 @@
 	</div>
 </div>
 <div class="w-100 pc-20">
-	<img src="images/gzf2_08.jpg" alt="" style="width: 100%;"/>
+	<a href="http://p.qiao.baidu.com/cps/chat?siteId=10206183&userId=2464485" target="_blank"><img src="images/gzf2_08.jpg" alt="" style="width: 100%;"/></a>
+	
 </div>
 <div class="w-100">
 	<div class="w-1000 pc-20"><img src="images/yh1_17.jpg" alt="" style="margin: 0 auto;"/></div>
@@ -123,3 +124,10 @@
 
 
 <!--#include file="bottom.asp"-->
+	<script type="text/javascript">
+		function curNav(num) {
+			var nav = $('#nav ul li');
+			nav.eq(num).addClass('this');
+		}
+		curNav(8);
+	</script>

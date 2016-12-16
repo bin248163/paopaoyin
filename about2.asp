@@ -131,3 +131,10 @@
 
 
 <!--#include file="bottom.asp"-->
+	<script type="text/javascript">
+		function curNav(num) {
+			var nav = $('#nav ul li');
+			nav.eq(num).addClass('this');
+		}
+		curNav(8);
+	</script>

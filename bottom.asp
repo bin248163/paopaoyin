@@ -3,7 +3,7 @@
 		<a href="">正职帮</a>
 		<a href="">西装定制</a>
 		<a href="">居安之家</a>
-		<a href="">霸屏科技</a>
+		<a href="http://bapingyun.com/" target="_blank">霸屏科技</a>
 		<a href="">西安工作服定制</a>
 		<a href="">西安职业装定制</a>
 		<a href="">西安冲锋衣定制</a>
