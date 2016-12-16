@@ -95,7 +95,23 @@
 	</div>
 
 </div>
-<div class="qq"></div>
+<div class="right">
+	<div class="right-p">
+		<i class="iconfont">&#xe602;</i>
+		<div>
+			<span>热线电话</span>
+			<p>029-87361006</p>
+		</div>
+	</div>
+	<div class="right-c">
+		<i class="iconfont">&#xe603;</i>
+		<div><img src="images/ewm.jpg" alt="" /></div>
+	</div>
+	<div class="right-t" id="top">
+		<i class="iconfont">&#xe604;</i>
+		<p>TOP</p>
+	</div>
+</div>
 
     </body>
      <script src="http://libs.baidu.com/jquery/1.8.3/jquery.min.js"></script>
