@@ -40,9 +40,9 @@
 		<h1 style="font-size: 32px;padding-top: 10px;">泡泡网印刷平台</h1>
 		<p style="font-size: 16px;line-height: 32px; padding-top: 30px;padding-bottom: 20px;">
 			全国服务热线 ：029-87361006 <br />
-手机：180-9159-3183 <br />
+手机：132-0146-9777<br />
 QQ:305420666  <br />
-E-mail:zzb@126.com <br />
+E-mail:996701888@qq.com  <br />
 地址：北大街与西华门交叉口宏府嘉会广场B座11038室  <br />
 乘车路线：乘坐地铁2号线钟楼站下A出口（星巴克左手边进）
 		</p>

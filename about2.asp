@@ -1,5 +1,6 @@
 <!--#include file="top.asp"-->
-<div class="n-banner" style="background-image: url(images/n3_02.jpg);"></div>
+<a href="http://p.qiao.baidu.com/cps/chat?siteId=10206183&userId=2464485" target="_blank">
+<div class="n-banner" style="background-image: url(images/n3_02.jpg);"></div></a>
 <div class="w-1000">
 	<h1 class="wz pc-20">
 		所在位置：<a href="index.asp">首页</a> > <a href="about.asp">关于我们</a>
@@ -13,7 +14,7 @@
 				<li><i></i>
 					<a href="about1.asp">与众不同</a>
 				</li>
-				<li><i></i>
+				<li class="this"><i></i>
 					<a href="about2.asp" >信念与信仰</a>
 				</li>
 			</ul>

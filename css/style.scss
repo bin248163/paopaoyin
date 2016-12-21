@@ -346,8 +346,13 @@ h5{font-size: 11px;line-height: 15px;color: $color;color: #fff;@include en;}
             &:hover{
                 a{color: $color;}
                 i{@include triangle-right(5px,1.2,$color);}
-            }     
+            }  
+              
         }
+        li.this{
+                a{color: $color;}
+                i{@include triangle-right(5px,1.2,$color);}
+            }   
     }
 }
 //首页下方新闻资讯

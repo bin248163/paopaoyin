@@ -1,5 +1,6 @@
 <!--#include file="top.asp"-->
-<div class="n-banner" style="background-image: url(images/n3_02.jpg);"></div>
+<a href="http://p.qiao.baidu.com/cps/chat?siteId=10206183&userId=2464485" target="_blank">
+<div class="n-banner" style="background-image: url(images/n3_02.jpg);"></div></a>
 <div class="w-1000">
 	<h1 class="wz pc-20">
 		所在位置：<a href="index.asp">首页</a> > <a href="about.asp">关于我们</a>
@@ -105,7 +106,7 @@
 手机：180-9159-3183 <br />
 座机：029-87361006    <br />
 qq:305420666 <br />
-邮箱：zzb@126.com <br />
+邮箱：996701888@qq.com  <br />
 地址：北大街与西华门交叉口宏府嘉会广场B座11038室</p>
 	</div>
 	<div style="width: 40%;float: left;padding-top: 30px;padding-left: 10%;">

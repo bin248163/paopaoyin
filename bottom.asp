@@ -1,47 +1,29 @@
  <div class="link-w">
 	<div class="link">
-		<a href="">正职帮</a>
-		<a href="">西装定制</a>
-		<a href="">居安之家</a>
+		<a href="http://zhengzhibang.com/" target="_blank">正职帮</a>
+		<a href="xizhuang.asp" target="_blank">西装定制</a>
+		<a href="http://4000010000.com/" target="_blank">居安之家</a>
 		<a href="http://bapingyun.com/" target="_blank">霸屏科技</a>
-		<a href="">西安工作服定制</a>
-		<a href="">西安职业装定制</a>
-		<a href="">西安冲锋衣定制</a>
+		<a href="gzf.asp" target="_blank">西安工作服定制</a>
+		<a href="xiaofu.asp" target="_blank">西安校服定制</a>
+		<a href="cfy.asp" target="_blank">西安冲锋衣定制</a>
 	</div>
 </div>
 <div class="w-nav">
-	<div class="nav" id="nav">
+	<div class="nav">
 		<ul>
 			<li>
-				<a href="index.asp" class="this">首页</a>
-			</li>
-			<li>
-				<a href="#">西装</a>
-			</li>
-			<li>
-				<a href="#">衬衣</a>
-			</li>
-			<li>
-				<a href="#">冲锋衣</a>
-			</li>
-			<li>
-				<a href="#">工作服</a>
-			</li>
-			<li>
-				<a href="#">校服</a>
-			</li>
-			<li>
-				<a href="#">特需定制</a>
-			</li>
-			<li>
-				<a href="#">酒店服装</a>
-			</li>
-			<li>
-				<a href="#">关于我们</a>
-			</li>
-			<li>
-				<a href="#">联系我们</a>
-			</li>
+						<a href="index.asp">首页</a>
+					</li>
+					<li><a href="xizhuang.asp">西装</a></li>
+					<li><a href="chenyi.asp">衬衣</a></li>
+					<li><a href="cfy.asp">冲锋衣</a></li>
+					<li><a href="gzf.asp">工作服</a></li>
+					<li><a href="xiaofu.asp">校服</a></li>
+					<li><a href="texu.asp">特需定制</a></li>
+					<li><a href="jiudian.asp">酒店服装</a></li>
+					<li><a href="about.asp">关于我们</a></li>
+					<li><a href="contact.asp">联系我们</a></li>
 		</ul>
 	</div>
 </div>
@@ -53,15 +35,11 @@
 					西安泡泡网印刷平台
 				</li>
 				<li>
-					联系电话：029-87361006 /180-9159-3183
+					联系电话：029-87361006 /132-0146-9777 
 				</li>
 				<li>
 					QQ：305420666
 				</li>
-			</ul>
-		</div>
-		<div class="bot1">
-			<ul>
 				<li>
 					地址：北大街与西华门交叉口宏府嘉
 				</li>
@@ -73,14 +51,28 @@
 		<div class="bot1">
 			<ul>
 				<li>
-					乘车路线：乘车路线：乘坐地铁2号线
+					对公账号：西安正职帮服饰有限公司
+				</li>
+				<li>
+					开户行：招商银行
+				</li>
+				<li>账号：1299 0655 4710 105</li>
+				<li>开户行：招商银行</li>
+				<li>账号：6225 8829 081 88888</li>
+			</ul>
+		</div>
+		<div class="bot1">
+			<ul>
+				<li>
+					乘车路线：乘坐地铁2号线
 				</li>
 				<li>
 					钟楼站下A出口（星巴克左手边进）
 				</li>
 				<li>
-					E-mail:zzb@126.com
+					E-mail:996701888@qq.com
 				</li>
+				<li></li>
 			</ul>
 		</div>
 		<div class="ewm"><img src="images/ewm.jpg" alt="二维码" />
@@ -88,8 +80,9 @@
 		</div>
 		<div class="w-1000">
 			<p class="bot-p1">
-				版权所有 2015-2018泡泡网印刷平台 陕ICP备11020000-1号 技术支持：
-				<a href="http://bapingyun.com/">霸屏科技</a>
+				版权所有 2008-2018西安博溢电子商务有限公司   网站备案/许可证号  陕ICP备13003120号-4
+ 技术支持：
+				<a href="http://bapingyun.com/" target="_blank">霸屏科技</a>
 			</p>
 		</div>
 	</div>

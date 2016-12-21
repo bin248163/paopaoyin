@@ -23,7 +23,8 @@
 	<img src="images/xf6_19.jpg" alt=""  style="margin:0 0 40px;"/>
 </div>
 <div class="w-1000">
-	<img src="images/xf7_23.jpg" alt="" />
+	<a href="http://p.qiao.baidu.com/cps/chat?siteId=10206183&userId=2464485" target="_blank">
+	<img src="images/xf7_23.jpg" alt="" /></a>
 </div>
 <div class="w-100">
 	<img src="images/50_42.jpg" alt="" />

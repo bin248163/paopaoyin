@@ -48,7 +48,7 @@
 	</div>
 	<div class="jz">
 		<img src="images/xt3_03.jpg" alt="" />
-		<div></div>
+		<div>设计师</div>
 	</div>
 </div>
 <h1 style="font-size: 30px;text-align: center;padding: 40px 0 0;">一流技术团队</h1>

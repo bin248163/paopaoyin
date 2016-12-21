@@ -1,8 +1,8 @@
 <!--#include file="top.asp"-->
-<div class="n-banner" style="background-image: url(images/n3_02.jpg);"></div>
+<div class="n-banner" style="background-image: url(images/gzfb_02.jpg);"></div>
 <div class="w-1000">
 	<h1 class="wz pc-20">
-		所在位置：<a href="">首页</a> > <a href="">关于我们</a>
+		所在位置：<a href="">首页</a> > <a href="">工作服</a>
 	</h1>
 </div>
 <div class="w-1000">
@@ -60,8 +60,8 @@
 	<div class="w-1000">
 		<div class="abl"><img src="images/abl_69.jpg" alt="" /></div>
 		<div class="abr">
-			<h2>西安正职帮服饰有限公司</h2>
-			<p>西安正职帮服饰有限公司是中国一个团体服装一站式定制机构与时尚职业装快时尚品。业务模式为时下最先进的 O2O模式，在每个省会城 市都会有一家专业为企业解决统一着装需求的办公室门店。西安博溢电子商务始于2007年， 一直致力于互联网电子商务领域。正职帮创立 于2012年，是一家互联网O2O本地化运营理念的品牌服装定制。主要将 业务分开为两块团体服装需求定制与时尚职业服装快销。</p>
+			<h2>西安泡泡网印刷平台</h2>
+			<p>西安泡泡网印刷平台是中国一个团体服装一站式定制机构与时尚职业装快时尚品。业务模式为时下最先进的 O2O模式，在每个省会城 市都会有一家专业为企业解决统一着装需求的办公室门店。西安博溢电子商务始于2007年， 一直致力于互联网电子商务领域。正职帮创立 于2012年，是一家互联网O2O本地化运营理念的品牌服装定制。主要将 业务分开为两块团体服装需求定制与时尚职业服装快销。</p>
 			<div>
 				<a href="about.asp" style="background: #666;">查看详情</a>
 				<a href="about.asp">查看荣誉资质</a>

@@ -26,11 +26,13 @@
 	</div>
 </div>
 <div class="w-1000 pc-20">
-	<img src="images/sl_09.jpg" alt="" style="margin: 40px auto;"/>
+	<a href="http://p.qiao.baidu.com/cps/chat?siteId=10206183&userId=2464485" target="_blank">
+	<img src="images/sl_09.jpg" alt="" style="margin: 40px auto;"/></a>
 </div>
 <div class="w-100" style="background: url(images/sl1_12.jpg) no-repeat center top;height: 2246px;"></div>
 <div class="w-100 pc-20">
-	<img src="images/gzf4_14.jpg" alt="" style="width: 100%;"/>
+	<a href="http://p.qiao.baidu.com/cps/chat?siteId=10206183&userId=2464485" target="_blank">
+	<img src="images/gzf4_14.jpg" alt="" style="width: 100%;"/></a>
 </div>
 <div class="w-100" style="background: url(images/jd3_14.jpg) no-repeat center top;height: 1045px;"></div>
 <div class="w-100">

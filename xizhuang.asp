@@ -42,7 +42,7 @@
 	<img src="images/xz5_23.jpg" alt="" style="margin: 60px auto 0;" />
 </div>
 <div class="w-1000">
-	<a href=""><img src="images/bj_27.jpg" alt="" style="margin:60px auto;" /></a>
+	<a href="http://p.qiao.baidu.com/cps/chat?siteId=10206183&userId=2464485" target="_blank"><img src="images/bj_27.jpg" alt="" style="margin:60px auto;" /></a>
 </div>
 <div class="w-1000">
 	<img src="images/lc_53.jpg" alt="" style="margin: 40px auto;"/>

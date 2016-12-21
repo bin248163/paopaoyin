@@ -68,14 +68,15 @@
 	</div>
 </div>
 <div class="w-1000 pc-20">
-	<a href="http://p.qiao.baidu.com/cps/chat?siteId=10206183&userId=2464485"><img src="images/cy3_11.jpg" alt="" /></a>
+	<a href="http://p.qiao.baidu.com/cps/chat?siteId=10206183&userId=2464485" target="_blank"><img src="images/cy3_11.jpg" alt="" /></a>
 	
 </div>
 <div class="w-100">
 	<img src="images/vy4_14.jpg" alt="" style="width: 100%;"/>
 </div>
 <div class="w-1000">
-	<img src="images/cy4_17.jpg" alt="" style="margin: 40px auto;"/>
+	<a href="http://p.qiao.baidu.com/cps/chat?siteId=10206183&userId=2464485" target="_blank">
+	<img src="images/cy4_17.jpg" alt="" style="margin: 40px auto;"/></a>
 </div>
 <div class="w-1000">
 	<img src="images/lc_53.jpg" alt="" style="margin:60px auto; 0" />
