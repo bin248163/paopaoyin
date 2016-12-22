@@ -3,13 +3,13 @@
 	<div id="banner_tabs" class="flexslider">
 		<ul class="slides">
 			<li>
-				<a href="http://p.qiao.baidu.com/cps/chat?siteId=10206183&userId=2464485" target="_blank"><img style="background: url(images/banner1_02.jpg) no-repeat center;" /></a>
+				<a href="http://p.qiao.baidu.com/cps/chat?siteId=10206183&userId=2464485" target="_blank" style="background: url(images/banner1_02.jpg) no-repeat center;"></a>
 			</li>
 			<li>
-				<a href="http://p.qiao.baidu.com/cps/chat?siteId=10206183&userId=2464485" target="_blank"><img style="background: url(images/banner1_02.jpg) no-repeat center;" /></a>
+				<a href="http://p.qiao.baidu.com/cps/chat?siteId=10206183&userId=2464485" target="_blank" style="background: url(images/banner1_02.jpg) no-repeat center;"></a>
 			</li>
 			<li>
-				<a href="http://p.qiao.baidu.com/cps/chat?siteId=10206183&userId=2464485" target="_blank"><img style="background: url(images/banner1_02.jpg) no-repeat center;" /></a>
+				<a href="http://p.qiao.baidu.com/cps/chat?siteId=10206183&userId=2464485" target="_blank" style="background: url(images/banner1_02.jpg) no-repeat center;"></a>
 			</li>
 		</ul>
 		<ul class="flex-direction-nav">

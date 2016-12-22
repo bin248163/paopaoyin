@@ -403,7 +403,7 @@ h5{font-size: 11px;line-height: 15px;color: $color;color: #fff;@include en;}
 //首页banner样式 更改banner高度只需更改此文件头部定义$banner函数值
 .flexslider {position: relative;width: 100%;height: $banner;overflow: hidden;zoom: 1;margin-bottom: 15px;background: #eee;
     .slides li {width: 100%;height: 100%;
-         a img{width: 100%;height: $banner;}
+         a{width: 100%;height: $banner;display: block}
     }
 }
 .flex-direction-nav{

@@ -72,60 +72,41 @@
 				<h2 class="h2">品味 品质 舒适</h2>
 				<div class="w-33">
 				    <a href="tel:02987361006" class="span-33 mr2">
-					    <img src="images/tx1_03.jpg" alt="纯色T恤定做" />
-					    <span>纯色T恤定做</span>
+					    <img src="images/lz1_03.jpg" alt="西装定做" />
+					    <span>西装定做</span>
 				    </a>
 				    <a href="tel:02987361006" class="span-33 mr2">
-					    <img src="images/tx2_03.jpg" alt="插肩袖T恤定做" />
-					    <span>插肩袖T恤定做</span>
+					    <img src="images/lz2_03.jpg" alt="衬衣定做" />
+					    <span>衬衣定做</span>
 				    </a>
 				    <a href="tel:02987361006" class="span-33">
-					    <img src="images/tx3_03.jpg" alt="撞色边T恤定做" />
-					    <span>撞色边T恤定做</span>
+					    <img src="images/lz3_03.jpg" alt="冲锋衣定做" />
+					    <span>冲锋衣定做</span>
 				    </a>
 				    <a href="tel:02987361006" class="span-33 mr2">
-					    <img src="images/tx4_03.jpg" alt="纯色翻领T恤定做" />
-					    <span>纯色翻领T恤定做</span>
+					    <img src="images/lz4_03.jpg" alt="工作服定做" />
+					    <span>工作服定做</span>
 				    </a>
 				    <a href="tel:02987361006" class="span-33 mr2">
-					    <img src="images/tx5_03.jpg" alt="带色边翻领T恤定做" />
-					    <span>带色边翻领T恤定做</span>
+					    <img src="images/lz5_03.jpg" alt="校服定做" />
+					    <span>校服定做</span>
 				    </a>
 				    <a href="tel:02987361006" class="span-33">
-					    <img src="images/tx6_03.jpg" alt="插肩袖翻领T恤定做" />
-					    <span>插肩袖翻领T恤定做</span>
+					    <img src="images/lz6_03.jpg" alt="酒店服装定做" />
+					    <span>酒店服装做</span>
 				    </a>
 				
 				</div>
 			</div>
 			<div class="con1">
-				<h1 class="h1">关于我们</h1>
-				<h2 class="h2">about us</h2>
-				<h2 class="h2">专业 优质 保障</h2>
-				<p class="zzpz">
-					<span class="zzzz"><img src="images/zz_11.jpg" alt="永先装饰公司资质" /></span>
-					泡泡印刷平台西安T恤衫定做，成长在古城西安，而将服务
-拓展到全国各地 （北京﹑上海﹑南京﹑苏州﹑西安﹑宁夏等
-地，都有我们的客户并与我们长期合作）我们制作的，广告
-衫﹑文化衫﹑polo衫﹑西服﹑工装﹑帽子等广告印刷服装制
-品，以质量优，货品丰富齐全，服务好，深受用户好评！并
-在西安广告衫行业拥有自己的品牌优势，我们的目地是将自
-己最好的广告服装印刷品，呈现给客户，让我们对广告艺术
-的萌动和青春的激情一起融入到我们的产品之中！期待与您
-合作，竭诚为您服务， 品质一流，坚如磐石！
-				</p>
-				<div id="demo">
-                    <div id="indemo">
-                        <div id="demo1">
-                            <a href="contact.asp"><img src="images/al1_15.jpg" border="0" /><span>产品展示</span></a>
-                            <a href="contact.asp"><img src="images/al2_15.jpg" border="0" /><span>生产厂房</span></a>
-                            <a href="contact.asp"><img src="images/al3_15.jpg" border="0" /><span>实体店</span></a>
-                        </div>
-                        <div id="demo2">
-                        </div>
-                    </div>
-                </div>
-            </div>
+				<a href="tel:02987361006"><img src="images/zj_06.jpg" alt="" /></a>
+				
+			</div>
+			<div class="con1">
+				<a href="tel:02987361006"><img src="images/lg_11.jpg" alt="" /></a>
+				
+			</div>
+			
 			<div class="con1">
 				<h1 class="h1">直接拨打定制热线</h1>
 				<a href="tel:13201469777" class="zj">13201469777</a>
@@ -135,20 +116,20 @@
 				<h2 class="h2">Customer evaluation</h2>
 				<h2 class="h2">真实 可靠 实在</h2>
 				<div class="nos">
-					<img src="images/al1_23.jpg" alt="" />
-					<span>奔跑吧·全程 </span>
+					<span>王子星月酒店</span>
+					<img src="images/al1_09.jpg" alt="" />
 				</div>
 				<div class="nos">
-					<img src="images/al2_23.jpg" alt="" />
-					<span>环境保护区  </span>
+					<span>环境保护区 </span>
+					<img src="images/al2_09.jpg" alt="" />
 				</div>
 				<div class="nos">
-					<img src="images/al3_23.jpg" alt="" />
-					<span>美的活动</span>
+					<span>奔跑吧·全程</span>
+					<img src="images/al3_09.jpg" alt="" />
 				</div>
 				<div class="nos">
-					<img src="images/al4_23.jpg" alt="" />
-					<span>万科城夜跑</span>
+					<span>保洁公司</span>
+					<img src="images/al4_09.jpg" alt="" />
 				</div>
 			</div>
 			<div class="con1">
@@ -246,7 +227,34 @@
 				</div>
 				</div>
 			</div>
-			
+			<div class="con1">
+				<h1 class="h1">关于我们</h1>
+				<h2 class="h2">about us</h2>
+				<h2 class="h2">专业 优质 保障</h2>
+				<p class="zzpz">
+					<span class="zzzz"><img src="images/zz_11.jpg" alt="永先装饰公司资质" /></span>
+					泡泡印刷平台西安T恤衫定做，成长在古城西安，而将服务
+拓展到全国各地 （北京﹑上海﹑南京﹑苏州﹑西安﹑宁夏等
+地，都有我们的客户并与我们长期合作）我们制作的，广告
+衫﹑文化衫﹑polo衫﹑西服﹑工装﹑帽子等广告印刷服装制
+品，以质量优，货品丰富齐全，服务好，深受用户好评！并
+在西安广告衫行业拥有自己的品牌优势，我们的目地是将自
+己最好的广告服装印刷品，呈现给客户，让我们对广告艺术
+的萌动和青春的激情一起融入到我们的产品之中！期待与您
+合作，竭诚为您服务， 品质一流，坚如磐石！
+				</p>
+				<div id="demo">
+                    <div id="indemo">
+                        <div id="demo1">
+                            <a href="contact.asp"><img src="images/al1_15.jpg" border="0" /><span>产品展示</span></a>
+                            <a href="contact.asp"><img src="images/al2_15.jpg" border="0" /><span>生产厂房</span></a>
+                            <a href="contact.asp"><img src="images/al3_15.jpg" border="0" /><span>实体店</span></a>
+                        </div>
+                        <div id="demo2">
+                        </div>
+                    </div>
+                </div>
+            </div>
             <div class="con1">
                 <div class="dhd">
                	    <a href="tel:13201469777"><img src="images/dhd_18.jpg" alt="" /></a>
@@ -256,5 +264,6 @@
 公司地址： 西安市莲湖区钟楼西华门十字宏府嘉会广场<br />
 正职帮团定部（B座11038室）  正职帮全品类展厅（B座12014-12015）
 			</div>
+			<div class="con1"><img src="images/code_13.jpg" alt="" /></div>
 		</div>
   <!--#include file="bottom.asp"-->
