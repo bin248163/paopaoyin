@@ -28,7 +28,7 @@ fieldset{border:1px solid #d6d6d6}
 .dh{ display: block; background: #ff6700;position: fixed;bottom: 74px; color: #fff; text-align: center; width: 600px; height: 40px; line-height: 40px; border-radius: 5px;font-size: 16px;z-index: 99999;}
 .dh:visited{ color: #fff;}
 #allmap {width: 100%;height: 300px;overflow: hidden;margin:0;}
-.header{ width: 600px;color: #fff;overflow: hidden;position: fixed;top:0;z-index: 999;background: #fff;border-bottom: 1px solid #ddd;padding: 3px 0;}
+.header{ width: 600px;color: #fff;overflow: hidden;position: fixed;top:0;z-index: 999;background: #fff;border-bottom: 1px solid #ddd;padding: 3px 0;height: 45px;}
 .bottom{width: 600px;height: 40px;position: fixed;bottom: 0;text-align: center;line-height: 40px;background: #f8f8f8;font-size: 14px;padding: 5px 0;border-top:1px solid #ddd ;z-index: 999;}
 .bottom1{width: 25%;float: right;position: relative;}
 .bot-nav{position: absolute;bottom: 46px;left: 0;background: rgba(0,0,0,.6);width: 100%;display: none;}
@@ -62,6 +62,10 @@ fieldset{border:1px solid #d6d6d6}
 .dz1{border-bottom:1px solid #d6d6d6 ;padding:10px 0 10px 100px;background: url(../images/dz.png) no-repeat 10px 10px;}
 .dz2{border-bottom:1px solid #d6d6d6 ;padding:10px 0 10px 100px;background: url(../images/dz.png) no-repeat 10px -110px;}
 .dz3{border-bottom:1px solid #d6d6d6 ;padding:10px 0 10px 100px;background: url(../images/dz.png) no-repeat 10px -230px;}
+.logo{float: left;width: 60%;padding-left: 10px;line-height: 45px;height: 45px;}
+.logo img{width: 35px;display: block;padding-top: 10px;float: left;}
+.logo a{display: inline-block;}
+.logo span{line-height: 45px;font-size: 18px;display: inline-block;padding-left: 5px;padding-top: 5px;}
 @media screen and (max-width: 600px) {
     body {width: 100%;}
     .header{ width: 100%;}
@@ -72,9 +76,9 @@ fieldset{border:1px solid #d6d6d6}
 .fh{height: 40px;line-height: 40px;display: block;position: absolute;top: 0;left: 10px;font-size: 16px;color: #ff6700;}
 .fh:visited{color: #ff6700;}
 .head-p{text-align: center; font-size: 20px;line-height: 41px;color: #ff6700;position: relative;height: 40px;}
-.logo{float: left;width: 95px;padding-left: 10px;}
-.head-dh{ right: 60px;;top: 4px;position: absolute;}
-.head-dh i{float: left;display: block;width: 40px;padding-right: 10px;}
+
+.head-dh{ right: 10px;top: 4px;position: absolute;}
+.head-dh i{float: left;display: block;width: 35px;padding-right: 10px;padding-top: 5px;}
 .head-dh p{float: left;display: block;line-height: 20px;}
 .head-dh p span{color: #f00;font-size: 18px;}
 .nav{float: left;width: 20%;display: block;margin-bottom: 10px;}
@@ -109,7 +113,7 @@ transition:transform 1s;
 .p2{text-align: center;width: 85%;margin: auto;font-size: 10px;}
 .ddl{ width: 23px; border-radius: 4px; height: 23px; margin: 5px 8px 0 8px; float: left;display: block;}
 .al{width: 31%;float: left;padding: 1%;}
-.bot{text-align: center;}
+.bot{text-align: center;font-size: 12px;}
 .bot span{color: #ff6700;}
 .dh-bot{background: #ff6700;color: #fff;font-size: 13px;border-radius: 3px;padding: 5px 10px;}
 .dh-bot:visited{color: #fff;}
@@ -168,6 +172,10 @@ transition:transform 1s;
 .span2{ display: block; width: 50px; height: 100%; position: absolute; z-index: 1;top: 0;line-height: 45px; background: url(../images/fh.png)no-repeat 5px -5px;}
 .top{ width: 50px; height: 50px; position: fixed; right: 10px; bottom: 80px; background:url(../images/top.png) no-repeat 0 -2px rgba(0,0,0,.2);z-index: 2016; border-radius: 100%; cursor: pointer; text-align: center; line-height: 70px; color: #fff;display: none;}
 .dd{ border-bottom: 1px solid #e6e6e6; height: 35px; line-height: 35px; margin-bottom: 10px;}
+.zys{float: left;width: 33.333%;text-align: center;}
+.zys i{display: block;margin: 10px auto;width: 40%;}
+.zys span{font-size: 14px;}
+.zys p{font-size: 12px;}
 
 .a1{ display: block; width: 20%; float: left; height: 25px; border-bottom: 2px solid #FFf; text-align: center;}
 .a1:hover{ color: #444; border-bottom: 2px solid #FC4250;}

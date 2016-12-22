@@ -15,33 +15,11 @@
 
 	<body>
 		
-<div class="na" id="na">
-			<div class="na1"><div class="na2"></div><div class="na3"></div></div>
-			<div class="na1 mt6"><div class="na2"></div><div class="na3"></div></div>
-			<div class="na1 mt6"><div class="na2"></div><div class="na3"></div></div>
-		</div>
+
 		
-			<div class="nav-l" id="nav-l"></div>
-		<div class="nav-w" id="nav-w">		
-			<div class="nav-v">
-				<div class="x" id="x">x</div>
-			
-			    <ul>
-				    <li><a href="index.asp">首页</a></li>
-				    <li><a href="T-shirt.asp">T恤衫定做</a></li>
-					<li><a href="Class service.asp">班服定做</a></li>
-					<li><a href="Baseball jackets.asp">棒球服定做</a></li>
-					<li><a href="hat.asp">马甲帽子定做</a></li>
-				    <li><a href="Sweater.asp">卫衣定做</a></li>
-				    <li><a href="Pizex.asp">冲锋衣定做</a></li>
-					<li><a href="contact.asp">关于我们</a></li>
-				</ul>
-			</div>
-			<div class="clear"></div>
-		</div>
 		<div class="header">
         	<div class="logo">
-        		<a href="index.asp"><img src="images/logo.jpg" alt="永先装饰logo" /> </a>
+        		<a href="index.asp"><img src="images/wz_03.jpg" alt="" /><span>泡泡网印刷平台</span></a>
         	</div>
         	<div class="head-dh">
         		<a href="tel:4008005068"><i><img src="images/dh.png" alt="" /></i><p>免费定制热线 <br /><span>029-87361006</span></p></a>
