@@ -23,7 +23,7 @@
 					<i class="navi"><img src="images/i1_05.jpg" alt="" /></i>
 					<p>首页</p>
 				</a>
-				<a href="T-shirt.asp" class="nav">
+				<a href="xizhuang.asp" class="nav">
 					<i class="navi"><img src="images/i2_05.jpg" alt="" /></i>
 					<p>西装</p>
 				</a>
@@ -146,7 +146,7 @@
 							<div class="zy-w">
 								<div class="zy">
 								    <div class="zy-l">
-								    	<p class="zy1">四支队活动</p>
+								    	<p class="zy1">西安雨润集团</p>
 								    	<div class="zy2">
 								    		<span>服务·评价</span>
 								    		<i><img src="images/wjx.png" alt="" /></i>
@@ -156,14 +156,14 @@
 								    		<i><img src="images/wjx.png" alt="" /></i>
 								    	</div>
 								    	<div class="zy3">
-								    		<span>马甲定做</span>
-								    		<span>帽子定做</span>
+								    		<span>西装定制</span>
+								    	
 								    	</div>
 								    </div>
 								    <div class="zy-r"><img src="images/mjs1_03.jpg" alt="" /></div>
 								    <div class="clear"></div>
 								    <p class="zy4">
-								    	印了好几百件，强力推荐，印得非 常清楚。质量很好，下次还会来。 
+								    	款式丶面料丶做工质量都非常好，听了店家的建议选配的衣服裤子穿着都很合身，挺拔，颜色也很正，像量身定制的一样，还会继续光顾。 满意
 								    </p>
 							    </div>
 							</div>
