@@ -27,7 +27,7 @@
 					<i class="navi"><img src="images/i2_05.jpg" alt="" /></i>
 					<p>西装</p>
 				</a>
-				<a href="Class service.asp" class="nav">
+				<a href="chenyi.asp" class="nav">
 					<i class="navi"><img src="images/i3_05.jpg" alt="" /></i>
 					<p>衬衣</p>
 				</a>
