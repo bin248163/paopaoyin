@@ -33,8 +33,8 @@ fieldset{border:1px solid #d6d6d6}
 .bottom1{width: 25%;float: right;position: relative;}
 .bot-nav{position: absolute;bottom: 46px;left: 0;background: rgba(0,0,0,.6);width: 100%;display: none;}
 .bot-nav ul li{border-bottom: 1px solid rgba(255,255,255,.5);float: left;}
-.br{border-right:  1px solid rgba(255,255,255,.5);width: calc(25% - 1px);}
-.w-25{width: 25%;}
+.br{border-right:  1px solid rgba(255,255,255,.5);width: calc(20% - 1px);}
+.w-25{width: 20%;}
 .bot-nav ul li a{line-height: 30px;color: #fff;}
 .bottom1 i{width: 22px;height: 20px;margin: 0 auto;display: block;}
 .bottom1 span{width: 100%;text-align: center;display: block;height: 20px;line-height: 25px;}

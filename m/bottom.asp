@@ -20,13 +20,15 @@
     	<div class="bot-nav" id="botnav">
     			<ul>
     				<li class="br"><a href="index.asp">首页</a></li>
-				    <li class="br"><a href="T-shirt.asp">T恤衫定做</a></li>
-					<li class="br"><a href="Class service.asp">班服定做</a></li>
-					<li class="w-25"><a href="Baseball jackets.asp">棒球服定做</a></li>
-					<li class="br"><a href="hat.asp">马甲帽子定做</a></li>
-				    <li class="br"><a href="Sweater.asp">卫衣定做</a></li>
-				    <li class="br"><a href="Pizex.asp">冲锋衣定做</a></li>
-					<li class="w-25"><a href="contact.asp">关于我们</a></li>
+				    <li class="br"><a href="xizhuang.asp">西装</a></li>
+					<li class="br"><a href="chenyi.asp">衬衣</a></li>
+					<li class="br"><a href="Baseball jackets.asp">冲锋衣</a></li>
+					<li class="w-25"><a href="hat.asp">工作服</a></li>
+				    <li class="br"><a href="Sweater.asp">校服</a></li>
+				    <li class="br"><a href="Pizex.asp">特需定制</a></li>
+					<li class="br"><a href="contact.asp">酒店服装</a></li>
+					<li class="br"><a href="Pizex.asp">关于我们</a></li>
+					<li class="w-25"><a href="contact.asp">联系我们</a></li>
     			</ul>
     	</div>   	
     </div>		
