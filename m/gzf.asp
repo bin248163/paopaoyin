@@ -40,7 +40,7 @@
 
 	
 	<div class="con1">
-		<img src="images/cbn_18.jpg" alt="" style="margin: 10px 1%;width: 98%;" />
+		<img src="images/jwd_11.jpg" alt="" style="margin: 0 0 10px;" />
 		<a href="tel:02987361006"><img src="images/ai_12.jpg" alt="" style="margin-top: 20px;margin-bottom: 10px;" /></a>
 	</div>
 	<div class="con1">
