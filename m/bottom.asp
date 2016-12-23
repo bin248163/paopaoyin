@@ -22,8 +22,8 @@
     				<li class="br"><a href="index.asp">首页</a></li>
 				    <li class="br"><a href="xizhuang.asp">西装</a></li>
 					<li class="br"><a href="chenyi.asp">衬衣</a></li>
-					<li class="br"><a href="Baseball jackets.asp">冲锋衣</a></li>
-					<li class="w-25"><a href="hat.asp">工作服</a></li>
+					<li class="br"><a href="cfy.asp">冲锋衣</a></li>
+					<li class="w-25"><a href="gzf.asp">工作服</a></li>
 				    <li class="br"><a href="Sweater.asp">校服</a></li>
 				    <li class="br"><a href="Pizex.asp">特需定制</a></li>
 					<li class="br"><a href="contact.asp">酒店服装</a></li>

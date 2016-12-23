@@ -31,11 +31,11 @@
 					<i class="navi"><img src="images/i3_05.jpg" alt="" /></i>
 					<p>衬衣</p>
 				</a>
-				<a href="Baseball jackets.asp" class="nav">
+				<a href="cfy.asp" class="nav">
 					<i class="navi"><img src="images/i4_05.jpg" alt="" /></i>
 					<p>冲锋衣</p>
 				</a>
-				<a href="hat.asp" class="nav">
+				<a href="gzf.asp" class="nav">
 					<i class="navi"><img src="images/i5_05.jpg" alt="" /></i>
 					<p>工作服</p>
 				</a>
