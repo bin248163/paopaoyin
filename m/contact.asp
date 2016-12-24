@@ -1,38 +1,22 @@
 <!--#include file="top.asp"-->
 <div class="content">
-	<div class="banner8"></div>
+	<div><img src="images/lx_02.jpg" alt="" style="width: 100%;" /></div>
 	<div class="con2">
-		<h1 class="h3">公司简介</h1>
-		<h2 class="h4">Company profile</h2>
-		<p class="jj">
-			<img src="images/jj_05.jpg" alt="" />
-			泡泡印刷平台西安T恤衫定做，成长在古城西安，而将服务拓展到全国各地（北京﹑上海﹑南京﹑苏州﹑西安﹑宁夏等地，都有我们的客户并与我们长期合作）我们制作的，广告衫﹑文化衫﹑polo衫﹑西服﹑工装﹑帽子等广告印刷服装制品，以质量优，货品丰富齐全，服务好，深受用户好评！并在西安广告衫行业拥有自己的品牌优势，我们的目地是将自己最好的广告服装印刷品，呈现给客户，让我们对广告艺术的萌动和青春的激情一起融入到我们的产品之中！期待与您合作，竭诚为您服务，品质一流，坚如磐石！
-PaoPaoYin.com™ 西安T恤衫 纺织品定制，坚持以"纯 · 棉生活"为主旨，以"纯棉＋定制"为特色，通过不加刻意雕凿的本朴设计、简约的时尚来演绎柔软舒适、自然健康的纯棉生活，产品种类以棉制品（精梳纯棉T恤、团体POLO衫、限量精棉情侣衫、100%纯棉帆布包）为主题，不刻意追求流行，但绝对追求经典品味、完美品质。
-西安文化衫100% Hand-made，独一无二、自家生产，自创品牌，产品来自用心体会生活，讲究定制、原创性和手工精神。
-西安广告衫重视印花品质的纺织品画坊，拥有独家"专色镂空转印+热熔渗透烫画＋创意手工染印"技术，可以在布类材质上实现完美的全彩印制服务，特别擅长黑色或者深色服装纺织品印花，任何漂亮的全彩图案都可以完美呈现，不会掉色、开裂，色彩饱和度高，手感柔软，透气性好，洗水牢度高，图案色彩长久鲜艳如新。 
+		<h1 style="text-align: center;font-size: 20px;font-weight: normal;">全国免费定制热线：<span style="color:#e61a19;">029-87361006</span></h1>
+		<img src="images/dt_05.jpg" alt="" style="margin: 10px 0 10px;"/>
+		<p style="padding: 10px;font-size: 14px;">
+			<span style="color:#e61a19;font-size: 18px;">泡泡网印刷平台</span><br />
+			全国服务热线 ：029-87361006 <br />
+手机：132-0146-9777<br />
+QQ:305420666 <br />
+996701888@qq.com <br />
+地址：北大街与西华门交叉口宏府嘉会广场B座11038室 <br />
+乘车路线：乘坐地铁2号线钟楼站下A出口（星巴克左手边进）
 		</p>
 	</div>
-	<div class="con2">
-		<h1 class="h3">公司简介</h1>
-		<h2 class="h4">Company profile</h2>
-		<img src="images/n-wh_05.jpg" alt="" />
-	</div>
-	<div class="con2">
-		<h1 class="h3">联系我们</h1>
-		<h2 class="h4">contact us</h2>
-		<img src="images/map_26.jpg" alt="" />
-	</div>
-	<div class="con2">
-		<p class="dz1">定制热线：<br />
-        	<a href="tel:029-87361006">029-87361006</a> <a href="tel:400-800-5068">13201469777</a><br /><a href="tel:13201469777">13201469777</a>
-		</p>
-		<p class="dz2">公司网址：<br />
-        	www.paopaoyin.com <br /><br />
-		</p>
-		<p class="dz3">公司地址：<br />
-        	西安市莲湖区钟楼西华门十字宏府嘉会广场<br />
-        	正职帮团定部（B座11038室）  正职帮全品类展厅（B座12014-12015）
-		</p>
+	<div class="con1" style="position: relative;">
+		<img src="images/code1_08.jpg" alt="" />
+		
 	</div>
 </div>
 <!--#include file="bottom.asp"-->

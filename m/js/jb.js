@@ -30,7 +30,7 @@ $(function(){
 		botnav.toggle();
 	})
     
-    if($('#demo')[0]) {
+    if($('#demo').length > 0) {
     var speed=50; //数字越大速度越慢
 	var t=$('#demo')[0];
 	var t1=$('#demo1')[0];
