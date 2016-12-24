@@ -39,15 +39,15 @@
 					<i class="navi"><img src="images/i5_05.jpg" alt="" /></i>
 					<p>工作服</p>
 				</a>
-				<a href="Sweater.asp" class="nav">
+				<a href="xiaofu.asp" class="nav">
 					<i class="navi"><img src="images/i6_05.jpg" alt="" /></i>
 					<p>校服</p>
 				</a>
-				<a href="Pizex.asp" class="nav">
+				<a href="texu.asp" class="nav">
 					<i class="navi"><img src="images/i7_05.jpg" alt="" /></i>
 					<p>特需定制</p>
 				</a>
-				<a href="contact.asp" class="nav">
+				<a href="jiudian.asp" class="nav">
 					<i class="navi"><img src="images/i8_05.jpg" alt="" /></i>
 					<p>酒店服装</p>
 				</a>
