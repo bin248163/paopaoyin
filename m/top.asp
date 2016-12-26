@@ -22,7 +22,7 @@
         		<a href="index.asp"><img src="images/wz_03.jpg" alt="" /><span>泡泡网印刷平台</span></a>
         	</div>
         	<div class="head-dh">
-        		<a href="tel:4008005068"><i><img src="images/dh.png" alt="" /></i><p>免费定制热线 <br /><span>029-87361006</span></p></a>
+        		<a href="tel:02987361006"><i><img src="images/dh.png" alt="" /></i><p>免费定制热线 <br /><span>029-87361006</span></p></a>
         		
         	</div>       	
 	    </div>

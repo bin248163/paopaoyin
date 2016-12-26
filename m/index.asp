@@ -51,7 +51,7 @@
 					<i class="navi"><img src="images/i8_05.jpg" alt="" /></i>
 					<p>酒店服装</p>
 				</a>
-				<a href="contact.asp" class="nav">
+				<a href="about.asp" class="nav">
 					<i class="navi"><img src="images/i9_05.jpg" alt="" /></i>
 					<p>关于我们</p>
 				</a>

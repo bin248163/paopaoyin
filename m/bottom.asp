@@ -27,7 +27,7 @@
 				    <li class="br"><a href="xiaofu.asp">校服</a></li>
 				    <li class="br"><a href="texu.asp">特需定制</a></li>
 					<li class="br"><a href="jiudian.asp">酒店服装</a></li>
-					<li class="br"><a href="Pizex.asp">关于我们</a></li>
+					<li class="br"><a href="about.asp">关于我们</a></li>
 					<li class="w-25"><a href="contact.asp">联系我们</a></li>
     			</ul>
     	</div>   	
