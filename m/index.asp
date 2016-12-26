@@ -81,19 +81,19 @@
 				    </a>
 				    <a href="tel:02987361006" class="span-33">
 					    <img src="images/lz3_03.jpg" alt="冲锋衣定做" />
-					    <span>冲锋衣定做</span>
+					    <span>T恤衫</span>
 				    </a>
 				    <a href="tel:02987361006" class="span-33 mr2">
 					    <img src="images/lz4_03.jpg" alt="工作服定做" />
 					    <span>工作服定做</span>
 				    </a>
 				    <a href="tel:02987361006" class="span-33 mr2">
-					    <img src="images/lz5_03.jpg" alt="校服定做" />
-					    <span>校服定做</span>
-				    </a>
-				    <a href="tel:02987361006" class="span-33">
 					    <img src="images/lz6_03.jpg" alt="酒店服装定做" />
 					    <span>酒店服装做</span>
+				    </a>
+				     <a href="tel:02987361006" class="span-33">
+					    <img src="images/lz5_03.jpg" alt="校服定做" />
+					    <span>校服定做</span>
 				    </a>
 				
 				</div>
@@ -255,15 +255,5 @@
                     </div>
                 </div>
             </div>
-            <div class="con1">
-                <div class="dhd">
-               	    <a href="tel:13201469777"><img src="images/dhd_18.jpg" alt="" /></a>
-                </div>
-                <p class="bot">
-			定制热线：<a href="tel:13201469777">13201469777 </a>      定制热线：<a href="tel:02987361006">029-87361006</a> <br />
-公司地址： 西安市莲湖区钟楼西华门十字宏府嘉会广场<br />
-正职帮团定部（B座11038室）  正职帮全品类展厅（B座12014-12015）</p>
-			</div>
-			<div class="con1"><img src="images/code_13.jpg" alt="" /></div>
-		</div>
+          
   <!--#include file="bottom.asp"-->

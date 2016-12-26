@@ -61,14 +61,5 @@
 			<a href="" style="display: inline-block;padding: 0 10px;">正职帮淘宝旗舰店</a>
 		</div>
 	</div>
-	<div class="con1">
-                <div class="dhd">
-               	    <a href="tel:13201469777"><img src="images/dhd_18.jpg" alt="" /></a>
-                </div>
-                <p class="bot">
-			定制热线：<a href="tel:13201469777">13201469777 </a>      定制热线：<a href="tel:02987361006">029-87361006</a> <br />
-公司地址： 西安市莲湖区钟楼西华门十字宏府嘉会广场<br />
-正职帮团定部（B座11038室）  正职帮全品类展厅（B座12014-12015）</p>
-			</div>
-</div>
+	
 <!--#include file="bottom.asp"-->

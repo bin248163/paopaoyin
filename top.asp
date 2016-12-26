@@ -16,7 +16,7 @@
 				var urlhash = window.location.hash;
 				if(!urlhash.match("fromapp")) {
 					if((navigator.userAgent.match(/(iPhone|iPod|Android|ios|iPad)/i))) {
-						window.location.href = "http://paopaoyin.com/wap/";
+						window.location.href = "/m";
 					}
 				}
 			} catch(err) {}

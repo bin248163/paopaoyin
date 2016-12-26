@@ -14,9 +14,5 @@ QQ:305420666 <br />
 乘车路线：乘坐地铁2号线钟楼站下A出口（星巴克左手边进）
 		</p>
 	</div>
-	<div class="con1" style="position: relative;">
-		<img src="images/code1_08.jpg" alt="" />
-		
-	</div>
-</div>
+
 <!--#include file="bottom.asp"-->

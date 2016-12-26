@@ -14,16 +14,52 @@
 	</head>
 
 	<body>
-		
 
-		
+		<div class="na" id="na">
+			<div class="na1">
+				<div class="na2"></div>
+				<div class="na3"></div>
+			</div>
+			<div class="na1 mt6">
+				<div class="na2"></div>
+				<div class="na3"></div>
+			</div>
+			<div class="na1 mt6">
+				<div class="na2"></div>
+				<div class="na3"></div>
+			</div>
+		</div>
+
+		<div class="nav-l" id="nav-l"></div>
+		<div class="nav-w" id="nav-w">
+			<div class="nav-v">
+				<div class="x" id="x">x</div>
+
+				<ul>
+					
+					<li><a href="index.asp">首页</a></li>
+				    <li><a href="xizhuang.asp">西装</a></li>
+					<li><a href="chenyi.asp">衬衣</a></li>
+					<li><a href="cfy.asp">冲锋衣</a></li>
+					<li><a href="gzf.asp">工作服</a></li>
+				    <li><a href="xiaofu.asp">校服</a></li>
+				    <li><a href="texu.asp">特需定制</a></li>
+					<li><a href="jiudian.asp">酒店服装</a></li>
+					<li><a href="about.asp">关于我们</a></li>
+					<li><a href="contact.asp">联系我们</a></li>
+				</ul>
+			</div>
+			<div class="clear"></div>
+		</div>
 		<div class="header">
-        	<div class="logo">
-        		<a href="index.asp"><img src="images/wz_03.jpg" alt="" /><span>泡泡网印刷平台</span></a>
-        	</div>
-        	<div class="head-dh">
-        		<a href="tel:02987361006"><i><img src="images/dh.png" alt="" /></i><p>免费定制热线 <br /><span>029-87361006</span></p></a>
-        		
-        	</div>       	
-	    </div>
-		
+			<div class="logo">
+				<a href="index.asp"><img src="images/logo.jpg" alt="" /></a>
+			</div>
+			<div class="head-dh">
+				<a href="tel:02987361006"><i><img src="images/dh.png" alt="" /></i>
+					<p>免费定制热线 <br /><span>029-87361006</span></p>
+				</a>
+
+			</div>
+
+		</div>

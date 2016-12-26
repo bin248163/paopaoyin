@@ -103,7 +103,7 @@
 	<div style="width: 45%;float: left;margin-left: 5%;">
 		<h2 style="font-size: 25px;padding-bottom: 20px;">您可以通过以下方式联系我们</h2>
 		<p style="font-size: 16px;">泡泡网印刷平台<br />
-手机：180-9159-3183 <br />
+手机：132-0146-9777 <br />
 座机：029-87361006    <br />
 qq:305420666 <br />
 邮箱：996701888@qq.com  <br />

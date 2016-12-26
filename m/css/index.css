@@ -62,8 +62,8 @@ fieldset{border:1px solid #d6d6d6}
 .dz1{border-bottom:1px solid #d6d6d6 ;padding:10px 0 10px 100px;background: url(../images/dz.png) no-repeat 10px 10px;}
 .dz2{border-bottom:1px solid #d6d6d6 ;padding:10px 0 10px 100px;background: url(../images/dz.png) no-repeat 10px -110px;}
 .dz3{border-bottom:1px solid #d6d6d6 ;padding:10px 0 10px 100px;background: url(../images/dz.png) no-repeat 10px -230px;}
-.logo{float: left;width: 60%;padding-left: 10px;line-height: 45px;height: 45px;}
-.logo img{width: 35px;display: block;padding-top: 8px;float: left;}
+.logo{float: left;width: 95px;padding-left: 10px;line-height: 45px;height: 45px;}
+.logo img{width: 100%;display: block;padding-top: 8px;float: left;}
 .logo a{display: inline-block;}
 .logo span{line-height: 45px;font-size: 18px;display: inline-block;padding-left: 5px;padding-top: 5px;}
 .cf{float: left;width: 48%;margin: 0 1% 10px;}
@@ -78,7 +78,7 @@ fieldset{border:1px solid #d6d6d6}
 .fh:visited{color: #ff6700;}
 .head-p{text-align: center; font-size: 20px;line-height: 41px;color: #ff6700;position: relative;height: 40px;}
 
-.head-dh{ right: 10px;top: 4px;position: absolute;}
+.head-dh{ right: 60px;top: 4px;position: absolute;}
 .head-dh i{float: left;display: block;width: 35px;padding-right: 10px;padding-top: 5px;}
 .head-dh p{float: left;display: block;line-height: 20px;}
 .head-dh p span{color: #f00;font-size: 18px;}
